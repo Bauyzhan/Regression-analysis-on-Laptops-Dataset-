@@ -1,0 +1,1524 @@
+laptop_name,brand_name,hard_disc_size,disc-tech,RAM,screen_size,CPU,price_in_₸
+ Toshiba Dynabook R731/E,Toshiba,250,HDD,4,13.0,Core i3-2310M 2.1 ГГц,38900.0
+ Toshiba Dynabook R731/E,Toshiba,250,HDD,4,13.0,Core i5-2520M 2.5 ГГц,46900.0
+ Toshiba Dynabook R731,Toshiba,250,HDD,4,13.0,Core i3-2310M 2.1 ГГц,67500.0
+ Toshiba Dynabook R731/B,Toshiba,250,HDD,4,13.0,Core i5-2520M 2.5 ГГц,78900.0
+ Lenovo ThinkPad X260 256 SSD,Lenovo,256,SSD,16,12.5,Core i5-6300U 2.4 ГГц,79900.0
+ Dell Latitude E7450,Dell,256,SSD,8,14.0,"Core I5-5300U - 2,3 ГГц",80900.0
+ Toshiba Tecra Z40-A,Toshiba,128,SSD,4,14.0,Core i5-4200U 1.6 ГГц,82900.0
+ Lenovo ThinkPad X1 Carbon,Lenovo,256,SSD,8,14.0,Core i7-4600U 2.1 ГГц,89900.0
+ HP EliteBook 820 G3,HP,256,SSD,8,12.5,Core i5-6300U 2.4 ГГц,91900.0
+ Lenovo ThinkPad Yoga 260,Lenovo,256,SSD,8,12.5,Core i7-6600U 2.6 ГГц,98900.0
+ Toshiba Portege Z20t-C,Toshiba,256,SSD,8,12.0,Core m7-6Y75 1.2 ГГц,98900.0
+ Dell Latitude E7270,Dell,128,SSD,8,12.0,Core i5-6300U 2.4 ГГц,100900.0
+ Lenovo ThinkPad T460,Lenovo,256,SSD,8,14.0,Core i5-6300U 2.4 ГГц,105900.0
+ Dell Latitude 3190,Dell,128,SSD,4,11.6,Pentium Silver N5000 1.1 ГГц,106200.0
+ Dell Latitude 5280,Dell,256,SSD,8,12.0,Core i5-7300U 2.6 ГГц,107900.0
+ Lenovo ThinkPad T440p,Lenovo,500,HDD,4,14.0,Core i5-4300M 2.6 ГГц,113900.0
+ Lenovo ThinkPad X270,Lenovo,256,SSD,16,12.5,Core i5-6300U 2.4 ГГц (в режиме Turbo 2.8 ГГЦ),115900.0
+ Lenovo ThinkPad T470,Lenovo,500,HDD,8,14.0,Core i5-6200U 2.3 ГГц,121900.0
+ Fujitsu Lifebook T937,Fujitsu,512,SSD,16,13.3,Core i7-7600U 2.8 ГГц,128900.0
+ Lenovo ThinkPad X250,Lenovo,180,SSD,8,12.5,Core i5-5300U - 2.3 ГГц,128900.0
+ Dell Latitude E7270,Dell,512,SSD,16,12.5,Core i5-6300U 2.4 ГГц,131900.0
+ Panasonic CFLX6-2,Panasonic,256,SSD,8,14.0,Core i5-7300U 2.6 ГГц,131900.0
+ Dell Latitude E5480,Dell,256,SSD,8,14.0,Core i5-7300U 2.6 ГГц,132900.0
+ Lenovo ThinkPad L560,Lenovo,128,SSD,8,15.6,Core i5-6300U 2.4 ГГц,132900.0
+ Lenovo ThinkPad T460s,Lenovo,256,SSD,12,14.0,Core i5-6300U 2.4 ГГц,137900.0
+ Dell Latitude E7270,Dell,256,SSD,8,12.5,Core I5-6300U 2.4 ГГц,142900.0
+ Fujitsu Lifebook A744/h,Fujitsu,320,HDD,4,15.0,"Core i5 4300M - 2,6 ГГц",142900.0
+ Lenovo ThinkPad X240,Lenovo,256,SSD,8,12.5,Core i7 4600U - 2.1 ГГц,142900.0
+ TOSHIBA Satellite B552/H,Toshiba,320,HDD,4,15.0,"Core i5-3340M - 2,7 ГГц",144200.0
+ Lenovo ThinkPad T460s,Lenovo,256,SSD,8,14.0,Core i5-6200U 2.4 ГГц,147900.0
+ Lenovo ThinkPad A485,Lenovo,256,SSD,8,14.0,Ryzen 5 PRO-2500U 2.0 ГГц,149900.0
+ HP EliteBook 820 G3,HP,256,SSD,8,12.0,Core i5-6300M 2.4 ГГц,151900.0
+ Toshiba Dynabook Satellite B552/H,Toshiba,320,HDD,4,15.6,Core i5-3340M 2.7 ГГц,151900.0
+ Lenovo IdeaPad 3 15ITL6,Lenovo,128,SSD,4,15.6,Celeron 6305 1.8 ГГц,152090.0
+ HP ProBook 640 G2,HP,256,SSD,8,14.0,Core i5-6300U 2.4 ГГц,152900.0
+ Lenovo E31-80,Lenovo,128,SSD,4,13.3,Core i3-6006U 2.0 ГГц,154900.0
+ DELL Latitude E5480,Dell,256,SSD,16,14.0,Core i5-6300U 2.4 ГГц,154900.0
+ HP Laptop 14s-fq0059ur,HP,256,SSD,4,14.0,3020e 1.2 ГГц,155143.0
+ Dell Latitude E7470,Dell,256,SSD,16,14.0,Core i7-6600U 2.6 ГГц,155900.0
+ Dell Latitude E7470,Dell,512,SSD,16,14.0,Core i7-6600U 2.6 ГГц,155900.0
+ Dell Latitude 7390,Dell,256,SSD,8,13.3,Core i5-7300U 2.6 ГГц,157900.0
+ HP EliteBook 820 G4,HP,256,SSD,8,12.5,Core i5-7300U 2.6 ГГц,159900.0
+ Lenovo ThinkPad T450,Lenovo,320,HDD,8,14.0,Core i5-5300U 2.2 ГГц,161900.0
+ Fujitsu Lifebook A574,Fujitsu,320,HDD,4,15.6,Core i5-4300M 2.6 ГГц,161900.0
+ Fujitsu Lifebook U745,Fujitsu,256,SSD,8,14.0,Core i5-5300U 2.3 ГГц,161900.0
+ HP EliteBook 820 G3,HP,500,HDD,8,12.5,Core i5 6300U - 2.4 ГГц,161900.0
+ Lenovo IdeaPad 3 Gen 6,Lenovo,256,SSD,4,15.6,Pentium Gold 7505 2.0 ГГц,162739.0
+ Acer Extensa 15 EX215-22-R1UH,Acer,256,SSD,4,15.6,Ryzen 3-3250U 2.6 ГГц,163200.0
+ Lenovo ThinkPad X250,Lenovo,128,SSD,4,12.0,Core i5-5300U 2.3 ГГц,163900.0
+ Lenovo IdeaPad 3 15IIL05,Lenovo,1024,HDD,8,15.6,Core i3-1005G1 1.2 ГГц,163990.0
+ Asus ExpertBook B1 B1500CEAE-BQ1999T,Asus,256,SSD,4,15.6,Celeron 6305 1.8 ГГц,164394.0
+ Lenovo ThinkPad T450S,Lenovo,256,SSD,8,14.0,Core i5-5300U 2.3 ГГц,164900.0
+ Toshiba Dynabook B35,Toshiba,500,HDD,4,15.0,Core i3 5005U 2 ГГц,164900.0
+ YAYA One,YAYA,256,SSD,8,14.0,"Celeron - N4000 1,1 ГГц",164900.0
+ Dell Precision M4800,Dell,128,SSD,8,15.6,Core i7-4600M 2.9 ГГц,166900.0
+ Lenovo ThinkPad T440S,Lenovo,128,SSD,8,14.0,Core i5-4300U - 1.9 ГГц,168900.0
+ Lenovo ThinkPad L570,Lenovo,256,SSD,8,15.6,Core i5-6300U 2.4 ГГц,170900.0
+ Lenovo ThinkPad T450S,Lenovo,160,SSD,8,14.0,Core i5-5300U 2.3 ГГц,171900.0
+ Lenovo ThinkPad T440,Lenovo,500,HDD,4,14.0,Core i5-4200U 1.6 ГГц,172900.0
+ Asus VivoBook Go L510KA,Asus,256,SSD,8,15.6,Pentium Silver-N6000 1.1 ГГц,173153.0
+ Dell Latitude 7390,Dell,256,SSD,16,13.3,Core i5-8350U 1.7 ГГц,173900.0
+ Lenovo ThinkPad T450S,Lenovo,512,SSD,12,14.0,"Core i7-5600U - 2,6 ГГц",173900.0
+ Lenovo IdeaPad 3 14ALC6,Lenovo,256,SSD,8,14.0,Ryzen 3 5300U 2.6 ГГц,174240.0
+ Fujitsu Lifebook T938,Fujitsu,256,SSD,8,13.0,Core i5-8350U 1.7 ГГц,175900.0
+ Fujitsu Lifebook A744/h,Fujitsu,320,HDD,8,15.0,"Core i5 4300M - 2,6 ГГц",176300.0
+ Lenovo IdeaPad 3 15ALC6,Lenovo,1024,HDD,8,15.6,Ryzen 3-5300U 2.6 ГГц,178975.0
+ Fujitsu Lifebook A574,Fujitsu,240,SSD,4,15.6,Core i5-4300M 2.6 ГГц,179900.0
+ Lenovo V15 G2 ALC,Lenovo,256,SSD,8,15.6,Ryzen 3 5300U 2.6 ГГц,179990.0
+ HP 15s-fq3002ci,HP,256,SSD,4,15.6,Celeron-N4500 1.1 ГГц,181640.0
+ Asus X515EA,Asus,256,SSD,8,15.6,Pentium Gold-7505 2.0 ГГц,182410.0
+ Lenovo ThinkPad T460,Lenovo,256,SSD,16,14.0,Core i5-6300U 2.4 ГГц,182900.0
+ Lenovo IdeaPad S145,Lenovo,1024,HDD,4,15.6,3020e 1.2 ГГц,183960.0
+ Fujitsu Lifebook A744/h,Fujitsu,240,SSD,4,15.0,"Core i5 4300M - 2,6 ГГц",185800.0
+ Lenovo ThinkPad T480,Lenovo,256,SSD,8,14.0,Core i5-8350U 1.7 ГГц,185900.0
+ Dell Latitude E7270,Dell,256,SSD,8,12.0,"Core I5-6300U - 2,4 ГГц",185900.0
+ HP EliteBook 820 G4,HP,256,SSD,8,12.0,Core i5-7200U 2.5 ГГц,186900.0
+ Lenovo IdeaPad 3,Lenovo,1000,HDD,4,15.6,Celeron N4020 1.1 ГГц,188231.0
+ Toshiba Portege Z30-C,Toshiba,128,SSD,8,13.3,"Core i5-6300U - 2,5 ГГц",188900.0
+ Dell Latitude 7390,Dell,512,SSD,16,13.0,Core i5-8350U 1.7 ГГц,191900.0
+ DELL Latitude E5480,Dell,256,SSD,8,14.0,Core i5-6300U 2400 MHz,192900.0
+ Dell Latitude 5480,Dell,256,SSD,8,14.0,Core i5-7300U 2.6 ГГц,193500.0
+ Dell Latitude 7390 2-in-1,Dell,256,SSD,8,13.3,Core i5-8350U 1.7 ГГц,194900.0
+ Dell Latitude 7390,Dell,256,SSD,8,13.3,Core i5-8350U 1.7 ГГц,194900.0
+ Lenovo ThinkPad T480,Lenovo,256,SSD,16,14.0,Core i5-8350U 1.7 ГГц,194900.0
+ Lenovo IdeaPad 3 15ABA7,Lenovo,256,SSD,4,15.6,Ryzen 3-5425U 2.7 ГГц,196534.0
+ Dell Precision M4600 8 Gb,Dell,256,SSD,8,15.0,Core i7-2720QM - 2.2 ГГц,196900.0
+ Dell Latitude E5550,Dell,512,SSD,16,14.0,Core i5-5300U - 2.3 ГГц,196900.0
+ Dell Latitude E7470 16 Gb,Dell,256,SSD,16,14.0,Core i5-6300U - 2.4 ГГц,197900.0
+ Lenovo IdeaPad 3 Gen 7,Lenovo,128,SSD,4,15.6,Ryzen 3-5425U 2.7 ГГц,199222.0
+ Lenovo V15 Gen 3,Lenovo,512,SSD,8,15.6,Ryzen 3-5425U 2.7 ГГц,200424.0
+ Lenovo ThinkPad X1 Carbon,Lenovo,256,SSD,8,14.0,Core i7-6600U 2.6ГГц,201900.0
+ Lenovo ThinkPad T480,Lenovo,256,SSD,32,14.0,Core i7-6600U 2.6 ГГц,202900.0
+ Dell Inspiron 11-3168,Dell,500,HDD,4,11.6,Pentium N3710 1.6 ГГц,202900.0
+ Fujitsu Lifebook A744/h,Fujitsu,240,SSD,8,15.0,"Core i5 4300M - 2,6 ГГц",203500.0
+ Dell Latitude E5470,Dell,180,SSD,8,14.0,Core i5 6300U - 2.4 ГГц,203900.0
+ HP EliteBook 840 G3,HP,500,HDD,8,14.0,Core i5-6300U 2.6 ГГц,204900.0
+ Dell Precision M4700,Dell,256,SSD,8,15.0,Core i7-3720QM - 2.6 ГГц,204900.0
+ Acer Spin 5 SP513-52N,Acer,256,SSD,8,13.0,Core i5-8250U 1.6 ГГц,206900.0
+ Dell Latitude 5580,Dell,128,SSD,8,15.0,Core i7-7820U 2.7 ГГц,207900.0
+ Dell Latitude E5480,Dell,256,SSD,16,14.0,Core i5-7300U 2.4 ГГц,210900.0
+ Lenovo ThinkPad T560s,Lenovo,256,SSD,32,15.6,Core i7-6600U 2.6 ГГц,210900.0
+ Lenovo ThinkPad T560,Lenovo,256,SSD,32,15.6,Core i7-6600U 2.6 ГГц,210900.0
+ Lenovo IdeaPad 3 Gen 7,Lenovo,256,SSD,8,15.6,Ryzen 3-5425U 2.7 ГГц,211189.0
+ Asus X515EA-BQ1189,Asus,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,212514.0
+ HP EliteBook 840 G3,HP,256,SSD,8,14.0,Core i5-7300U 2.6 ГГц,212900.0
+ Lenovo ThinkPad T440S,Lenovo,240,SSD,12,14.0,Core i7-4600U - 2.1 ГГц,212900.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,213283.0
+ HP 250 G9,HP,256,SSD,8,15.6,Celeron N4500 1.1 ГГц,213675.0
+ Lenovo IdeaPad Slim 3 Gen 8,Lenovo,512,SSD,8,14.0,Ryzen 3-7320U 2.4 ГГц,215990.0
+ Asus Vivobook Go 14 E1404FA-EB019,Asus,256,SSD,8,14.0,Ryzen 3-7320U 2.4 ГГц,218333.0
+ Lenovo IdeaPad Slim 3 Gen 8,Lenovo,256,SSD,8,15.6,Core i3-N305 1.8 ГГц,219188.0
+ Lenovo IdeaPad 3 Gen 7,Lenovo,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,219815.0
+ Lenovo V15 G3 IAP,Lenovo,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,219815.0
+ Lenovo V15 G3 IAP,Lenovo,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,219815.0
+ Lenovo ThinkPad T560,Lenovo,256,SSD,8,15.6,Core i5-6300U 2.4 ГГц,219900.0
+ Lenovo V15 G3 IAP,Lenovo,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,219900.0
+ Lenovo V15 Gen 2,Lenovo,1024,HDD,4,15.6,Ryzen 3-5300U 2.6 ГГц,219900.0
+ Lenovo IdeaPad 1 15ADA7,Lenovo,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,219900.0
+ HP 14-ep0025i,HP,512,SSD,8,14.0,Core i3-N305 1.8 ГГц,220395.0
+ Asus Vivobook Go 15 E510KA-EJ135W,Asus,256,SSD,8,15.6,Pentium Silver-N6000 1.1 ГГц,221160.0
+ Leen Tech Leenbook 14V10,Leen Tech,256,SSD,8,14.1,Core i3-10110U 2.6 ГГц,222200.0
+ HP 240 G8,HP,256,SSD,8,14.0,Celeron N4020 1.1 ГГц,225740.0
+ Lenovo V15 G2 ALC,Lenovo,256,SSD,4,15.6,Ryzen 3-5300U 2.6 ГГц,226500.0
+ Dell Latitude 5290,Dell,256,SSD,8,12.5,Core-i5 8350U 1.7 ГГц,226900.0
+ Lenovo ThinkPad L560,Lenovo,256,SSD,8,15.6,Core i5-6300U 2.4 ГГц,229900.0
+ Acer Aspire 3 A315-23-R1B3,Acer,256,SSD,4,15.6,Athlon Silver-3050U 2.3 ГГц,230900.0
+ Dell Latitude 5590,Dell,256,SSD,8,15.6,Core i5-8350U 1.7 ГГц,231900.0
+ Lenovo ThinkPad T450,Lenovo,500,HDD,4,14.0,Core i5 5300U - 2.3 ГГц,232900.0
+ Lenovo ThinkPad X380 Yoga,Lenovo,256,SSD,8,13.3,Core i7-8550U 1.8ГГц,233900.0
+ Lenovo IdeaPad 3 15IIL05,Lenovo,256,SSD,4,15.6,Core i3-1005G1 1.2 ГГц,234360.0
+ Asus Vivobook Go 15 E1504GA,Asus,256,SSD,8,15.6,N200 1.0 ГГц,234598.0
+ Lenovo ThinkPad T470s,Lenovo,256,SSD,8,14.0,Core i5-6300U 2.4 ГГц,234900.0
+ Lenovo V15 G2 ALC,Lenovo,256,SSD,4,15.6,Ryzen 3-5300U 2.6 ГГц,235800.0
+ HP 240 G8,HP,256,SSD,8,14.0,Celeron N4020 1.1 ГГц,236400.0
+ Lenovo V14 G1 IML,Lenovo,1000,HDD,4,14.0,Core i3-10110U 2.1 ГГц,237500.0
+ Lenovo IdeaPad 3 Gen 5,Lenovo,256,SSD,8,15.6,Core i3-10110U 2.1 ГГц,238739.0
+ Dell Latitude 5480,Dell,256,SSD,8,14.0,Core i5 6300U 2.4 ГГц,239900.0
+ Lenovo IdeaPad 3 Gen 7,Lenovo,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,240349.0
+ Asus Vivobook 15 X1504ZA-BQ439,Asus,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,240574.0
+ Asus ExpertBook B1 B1402CBA-EB0563,Asus,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,240604.0
+ HP 17-cp2004ci,HP,256,SSD,8,17.3,Ryzen 3-7320U 2.4 ГГц,241490.0
+ HP 15s-fq5043ci,HP,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,241490.0
+ HP 15s-eq2013ci,HP,512,SSD,8,15.6,Ryzen 7-5700U 1.8 ГГц,241490.0
+ Dell XPS 13 9370,Dell,256,SSD,16,13.0,Core i5-8350U 1.7ГГц,241900.0
+ Dell Latitude 7370,Dell,256,SSD,8,13.3,Core m5-6Y57 1.1 ГГц,241900.0
+ Dell Inspirion 15-3552,Dell,500,HDD,4,15.6,Celeron N3060 1.6 ГГц,241900.0
+ Lenovo IdeaPad Slim 3 15IAH8,Lenovo,256,SSD,8,15.6,Core i5-12450H 2.0 ГГц,242203.0
+ MSI Modern 14 C12MO-884XKZ,MSI,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,243656.0
+ HP 250 G9,HP,256,SSD,8,15.6,Pentium N6000 1.1 ГГц,245438.0
+ Asus X515EA-BQ868W,Asus,256,SSD,4,15.6,Core i3-1115G4 3.0 ГГц,245462.0
+ Asus Vivobook 16 X1605ZA-MB321,Asus,512,SSD,8,16.0,Core i3-1215U 1.2 ГГц,245662.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 3-5300U 2.6 ГГц,245700.0
+ Lenovo ThinkPad Yoga 370,Lenovo,256,SSD,8,13.3,Core i7-7500U 2.7 ГГц,245900.0
+ Lenovo ThinkPad T495s,Lenovo,256,SSD,8,14.0,Ryzen 5-3500U 2.1 ГГц,245900.0
+ Dell Latitude 3300,Dell,256,SSD,8,13.0,Core i5-8250U 1.6 ГГц,245900.0
+ Lenovo ThinkPad Yoga 460,Lenovo,512,SSD,8,14.0,Core i5-6300U 2.4 ГГц,245900.0
+ Asus ExpertBook B1 B1502CBA-BQ0392,Asus,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,246193.0
+ Lenovo IdeaPad Slim 3 15IAH8,Lenovo,512,SSD,8,15.6,Core i5-12450H 2.0 ГГц,247188.0
+ Asus ExpertBook B1 B1500CEAE-BQ2000T,Asus,256,SSD,8,15.6,Pentium Gold 7505 2.0 ГГц,248204.0
+ Lenovo ThinkPad X1 Carbon,Lenovo,256,SSD,8,14.0,Core i5-6300U 2.4 ГГц,248900.0
+ Asus X515EA-BQ1949W,Asus,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,249244.0
+ Acer Aspire 3 A315-57G,Acer,1024,HDD,4,15.6,Core i3-1005G1 1.2 ГГц,249301.0
+ Lenovo IdeaPad Slim 3 Gen 8,Lenovo,256,SSD,8,16.0,U300 1.2 ГГц,249439.0
+ Lenovo ThinkPad T580,Lenovo,512,SSD,8,15.6,Core i5- 8350U 1.7 ГГц,249900.0
+ Lenovo IdeaPad 3 15IML05,Lenovo,1024,HDD,4,15.6,Core i3-10110U 2.1 ГГц,250075.0
+ Dell Inspiron 15 3520,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,250551.0
+ Asus ExpertBook B1 B1502CBA,Asus,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,369900.0
+ Dell Latitude 7389,Dell,256,SSD,8,13.3,Core i5-7200U 2.5 ГГц,250900.0
+ HP EliteBook x360 1030 G3,HP,512,SSD,16,13.3,Core i5-8350U 1.7 ГГц,251900.0
+ Asus X515EA-BQ1189W,Asus,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,251952.0
+ HP 14-ep0024ci,HP,512,SSD,8,14.0,Core i3-N305 1.8 ГГц,251990.0
+ Asus X415EA-BV745W,Asus,128,SSD,4,14.0,Pentium Gold 7505 2.0 ГГц,252131.0
+ Lenovo IdeaPad 3 15IML05,Lenovo,256,SSD,4,15.6,Core i3-10110U 2.1 ГГц,252220.0
+ Asus ExpertBook B1 B1500CEAE,Asus,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,252521.0
+ HP Zbook 15 G2,HP,512,SSD,32,15.0,Core i7-4810MQ 2.8 ГГц,252900.0
+ HP Europe EliteBook 840 G5,HP,256,HDD,8,14.0,Core i5 8350U - 1.7 ГГц,252900.0
+ HP EliteBook 850 G3,HP,512,SSD,16,15.6,Core i5-6300U 2.4 ГГц,253900.0
+ Lenovo IdeaPad 3 Gen 7,Lenovo,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,254008.0
+ Dell XPS 13 9370,Dell,256,SSD,16,13.0,Core i5-8350U 1.7ГГц,254900.0
+ Dell Latitude 7390 2-in-1,Dell,512,SSD,16,13.0,Core i7-8565U 1.8 ГГц,254900.0
+ Dell Precision M6600,Dell,320,HDD,8,17.0,Core i5-2820 3.2 ГГц,254900.0
+ Dell Vostro 3520,Dell,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,255340.0
+ HP EliteBook 840 G3,HP,256,SSD,8,14.0,Core i5-7200U 2.5 ГГц,255900.0
+ Asus ExpertBook Y1511CDA-BQ790,Asus,256,SSD,4,15.6,Ryzen 3-3250U 2.6 ГГц,256080.0
+ MSI Modern 14 C12MO-883XKZ,MSI,512,SSD,8,14.0,Core i3-1215U 1.2 ГГц,256593.0
+ HP 245 G9,HP,256,SSD,8,14.0,Ryzen 3-5425U 2.7 ГГц,256988.0
+ Asus Vivobook 15 X1504VA-BQ281,Asus,512,SSD,8,15.6,Core i3-1315U 1.2 ГГц,257480.0
+ Lenovo ThinkPad X260,Lenovo,256,SSD,8,12.5,Core i5-6200U 2.4 ГГц,257900.0
+ Lenovo IdeaPad Slim 3 Gen 8,Lenovo,256,SSD,8,16.0,Core i3-1315U 1.2 ГГц,258677.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,260423.0
+ Lenovo V15 Gen 3,Lenovo,256,SSD,8,15.6,Core i3-1215U 0.9 ГГц,260600.0
+ HP 15-db1214ur,HP,256,SSD,4,15.6,Ryzen 3 3200U 2600 МГц,261200.0
+ HP 15s-eq1162ur,HP,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,262395.0
+ Lenovo ThinkPad W530,Lenovo,500,HDD,8,15.6,Сore i7-3840QM 2.8 ГГц,262900.0
+ HP EliteBook 840 G6,HP,256,SSD,8,14.0,Core i5-8265U 1.6 ГГц,263900.0
+ Lenovo ThinkPad T470s,Lenovo,512,SSD,12,14.0,Core i5 6300U - 2.4 ГГц,263900.0
+ Dell Inspiron 15 3520,Dell,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,264244.0
+ Dell Latitude E5490,Dell,256,SSD,16,14.0,Core i5-7300U 2.6 ГГц,264900.0
+ HP EliteBook 850 G3,HP,500,HDD,8,15.6,Core i5 6300U 2.4 ГГц,264900.0
+ Lenovo V15 G2 ALC,Lenovo,1024,HDD,8,15.6,Ryzen 3-5300U 2.6 ГГц,265800.0
+ HP EliteBook 830 G5,HP,512,SSD,8,13.3,"Core i5-8350U - 1,7 ГГц",265900.0
+ Lenovo V15 G2 ITL,Lenovo,1000,HDD,4,15.6,Core i3 - 1115G4 3.0 Ггц,266100.0
+ Lenovo IdeaPad Slim 3,Lenovo,512,SSD,8,15.6,Core i3-N305 3.2 ГГц,266313.0
+ Lenovo IdeaPad L3 15ITL6,Lenovo,1024,HDD,4,15.6,Core i3-1115G4 3.0 ГГц,267200.0
+ Lenovo V15 G2 ITL,Lenovo,1000,HDD,8,15.6,Core i3-1115G4 3.0 ГГц,268100.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,268300.0
+ Lenovo IdeaPad 3 15IIL05,Lenovo,256,SSD,4,15.6,Core i3-1005G1 1.2 ГГц,268987.0
+ Dell Vostro 3520,Dell,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,269890.0
+ Lenovo IdeaPad 3 15ITL6,Lenovo,256,SSD,4,15.6,Core i3-1115G4 3.0 ГГц,270100.0
+ Dell Inspiron 15 3520,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,270182.0
+ Dell Latitude 5290,Dell,128,SSD,8,12.5,Core i5 8350U 1.7 ГГц,270300.0
+ Lenovo V15 G3 IAP,Lenovo,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,270500.0
+ Acer Aspire A315-56,Acer,1000,HDD,4,15.6,Core i3-1005G1 1.2 ГГц,270840.0
+ Lenovo ThinkPad T460S,Lenovo,256,SSD,8,14.0,Core i7-6600U 2.4 ГГц,270900.0
+ Lenovo IdeaPad 3 Gen 6,Lenovo,256,SSD,4,15.6,Core i3-1115G4 3.0 ГГц,271000.0
+ Asus Vivobook 15X K3504ZA-BQ122,Asus,512,SSD,8,15.6,Core i3-1220P 1.1 ГГц,271174.0
+ Asus Vivobook 17 X1704ZA,Asus,512,SSD,8,17.3,Core i3-1215U 1.2 ГГц,271534.0
+ Asus Vivobook 15 X1504ZA-BQ078W,Asus,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,271534.0
+ Dell Inspiron 5370,Dell,256,SSD,8,13.3,Core i5-8250U 1.6 ГГц,271900.0
+ HP 15s-fq5040ci,HP,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,272990.0
+ HP 15s-eq3075ci,HP,256,SSD,8,15.6,Ryzen 5-5625U 2.3 ГГц,272990.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,273800.0
+ Lenovo V15 G2 ALC,Lenovo,1000,HDD,8,15.6,Ryzen 5-5500U 2.1 ГГц,274100.0
+ Lenovo IdeaPad 3 15ALC6,Lenovo,1000,HDD,8,15.6,Ryzen 5-5500U 2.1 ГГц,274550.0
+ Lenovo ThinkPad T560s,Lenovo,256,SSD,8,15.6,Core i7-6600U 2.6 ГГц,274900.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,274900.0
+ Asus ExpertBook B1 B1400CEAE,Asus,256,SSD,4,14.0,Core i3-1115G4 3.0 ГГц,275164.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 3-5300U 2.6 ГГц,275400.0
+ MSI Modern 14C13M-885XKZ,MSI,512,SSD,8,14.0,Core i3-1315U 1.2 ГГц,276000.0
+ Dell Precision 7510,Dell,1000,HDD+SSD,32,15.6,Xeon E3-1505M 2.8 ГГц,276900.0
+ Asus Vivobook Go 15 E1504FA-BQ164W,Asus,256,SSD,8,15.6,Ryzen 3-7320U 2.4 ГГц,277342.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,278200.0
+ Lenovo IdeaPad 1 15ADA7,Lenovo,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,278800.0
+ Dell Vostro 3501,Dell,1024,HDD,4,15.6,Core i3-1005G1 1.2 ГГц,278841.0
+ Lenovo V15-ADA,Lenovo,128,SSD,4,15.6,Athlon Silver-3050U 2.3 ГГц,279700.0
+ Dell Vostro 3401,Dell,1024,HDD,4,14.0,Core i3-1005G1 1.2 ГГц,279987.0
+ Lenovo ThinkPad T570,Lenovo,512,HDD,8,15.6,Core i5-7300U 2.6 ГГц,280900.0
+ Dell Inspiron 5370,Dell,256,SSD,8,13.3,Core i5 8250U 1.6 ГГц,280900.0
+ HP EliteBook 840 G3,HP,256,SSD,8,14.0,Core i5 6300U - 2.4 ГГц,280900.0
+ Lenovo IdeaPad L340-15API 256 GB,Lenovo,256,SSD,4,15.6,Ryzen 3 3200U (2x2600 МГц),281000.0
+ Lenovo V15 G3 IAP ,Lenovo,512,SSD,8,15.6,Core i5-1235U 0.9 ГГц,281500.0
+ HP 250 G9,HP,256,SSD,8,15.6,Core i3-1215U 1.3 Ггц,281820.0
+ Lenovo ThinkPad P50,Lenovo,256,SSD,16,15.0,Core i7-6820HQ 2.7 ГГц,281900.0
+ HP Europe 245 G8,HP,256,SSD,8,14.0,Ryzen 3-3250U 2.6 ГГц,281900.0
+ Lenovo V15 G3 IAP,Lenovo,256,SSD,8,15.6,Intel Core i5-1235U,281938.0
+ Asus ExpertBook B1 B1500CBA,Asus,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,282235.0
+ HP 15s-fq5073ci,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,283490.0
+ Lenovo V15 Gen 3,Lenovo,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,283500.0
+ Acer Aspire A315-56,Acer,256,SSD,4,15.6,Core i3-1005G1 1.2 ГГц,284050.0
+ Lenovo IdeaPad 3 15IIL05,Lenovo,256,SSD,4,15.6,Core i5-1035G4 1.1 ГГц,284704.0
+ Lenovo IdeaPad 3 Gen 7,Lenovo,256,SSD,8,15.6,Ryzen 7-5825U 2.0 ГГц,284816.0
+ Asus Vivobook 16 X1605ZA-MB024W,Asus,512,SSD,8,16.0,Core i3-1215U 1.2 ГГц,285598.0
+ Lenovo IdeaPad 3 15ITL6,Lenovo,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,285700.0
+ Asus Vivobook Go 15 E1504FA-L1285,Asus,512,SSD,8,15.6,Ryzen 5-7520U 2.8 ГГц,285742.0
+ Lenovo V15 ADA,Lenovo,256,SSD,4,15.6,Athlon 3150U 2.4 ГГц,286600.0
+ Lenovo Ideapad S145,Lenovo,1024,HDD,4,15.6,Core i3-7020U 2.3 ГГц,287400.0
+ HP 14s-dq5008ci,HP,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,287690.0
+ Lenovo IdeaPad 3 15ALC6,Lenovo,1000,HDD,8,15.6,Ryzen 5-5500U 2.1 ГГц,288000.0
+ Asus VivoBook 16 M1605YA-MB006,Asus,512,SSD,8,16.0,Ryzen 5-7530U 2.0 ГГц,288382.0
+ Lenovo IdeaPad 3 15IIL05,Lenovo,256,SSD,4,15.6,Core i5-1035G1 1.0 ГГц,289392.0
+ Lenovo IdeaPad 3 Gen 5,Lenovo,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,289600.0
+ HP 15s-fq5035ci,HP,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,289695.0
+ Dell Vostro 3500,Dell,256,SSD,4,15.6,Core i3-1115G4 3.0 ГГц,289800.0
+ Lenovo V14 G1 IML 256 GB,Lenovo,256,SSD,4,14.0,Core i3-10110U 2.1 ГГц,290100.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,290300.0
+ HP 255 G8,HP,256,SSD,8,15.6,Athlon 3150U 2.4 ГГц,290300.0
+ Asus Vivobook 15 X1504ZA-BQ440,Asus,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,291430.0
+ Lenovo IdeaPad 3 15ALC6,Lenovo,1000,HDD,4,15.6,Ryzen 3-5300U 2.6 ГГц,291700.0
+ Dell Vostro 3520,Dell,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,291760.0
+ Dell Latitude 7490,Dell,256,SSD,16,14.0,Core i7-8650U 1.9 ГГц,292500.0
+ HP 15s-eq3079ci,HP,512,SSD,8,15.6,Ryzen 5-5625U 2.3 ГГц,293990.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,293990.0
+ Lenovo V15 G3 IAP,Lenovo,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,295625.0
+ Lenovo IdeaPad 3 15IGL05,Lenovo,256,SSD,8,15.6,Pentium N5030 1.1 ГГц,296600.0
+ HP Europe 250 G8,HP,256,SSD,4,15.6,Core i5-1035G1 1.0 ГГц,296900.0
+ HP Europe 250 G8,HP,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,296900.0
+ Lenovo V15 G2 ALC,Lenovo,256,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,298100.0
+ Lenovo ThinkPad T460S,Lenovo,512,SSD,8,14.0,Core i7-6600U - 2.6 ГГц,298900.0
+ Lenovo ThinkPad P50 8 Gb,Lenovo,256,SSD,8,15.0,Core i7-6820HQ - 2.7 ГГц,299900.0
+ HP 15-db1021ur,HP,256,SSD,8,15.6,Ryzen 3 3200U 2600 МГц,300500.0
+ Lenovo ThinkPad P50,Lenovo,256,SSD,16,15.0,Core i7-6820HQ 2.7 ГГц,301900.0
+ Asus ExpertBook L1 L1500CDA,Asus,512,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,302954.0
+ Dell Vostro 3520,Dell,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,303010.0
+ HP Laptop 15-DW1046UR,HP,256,SSD,8,15.6,Pentium Gold-6405U 2.4 ГГц,303100.0
+ Lenovo ThinkPad T580,Lenovo,256,SSD,8,15.6,Core i5- 8350U 1.7 ГГц,303500.0
+ HP 15-db1240ur,HP,256,SSD,4,15.6,Ryzen 3-3200U 2.6 ГГц,304000.0
+ Asus Vivobook 15 X1504VA-BQ285W,Asus,512,SSD,8,15.6,Core i3-1315U 1.2 ГГц,304294.0
+ HP 15s-fq5038ci,HP,512,SSD,8,15.6,Core i3-1225U 1.2 ГГц,304385.0
+ HP 17-cn2037ci,HP,512,SSD,8,17.3,Core i5-1235U 1.3 ГГц,304490.0
+ HP 15s-fq5032ci,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,304490.0
+ Lenovo V15 G2 ITL,Lenovo,1000,HDD,8,15.6,Core i3-1115G4 3.0 ГГц,304600.0
+ Lenovo V15 G2 ALC ,Lenovo,256,SSD,8,15.6,Ryzen R5-5500U 2.1 ГГц,305300.0
+ Asus ExpertBook B1 B1502CBA-BQ0393,Asus,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,305690.0
+ Asus ExpertBook B1 B1402CBA-EB0564,Asus,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,305690.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1115G4 1.7 ГГц,306500.0
+ Lenovo ThinkPad T480,Lenovo,512,SSD,16,14.0,Core i5-8250U 1.6 ГГц,307900.0
+ Lenovo IdeaPad 3 Gen 7,Lenovo,256,SSD,8,15.6,Ryzen 5 5625U 2.3 ГГц,309000.0
+ Dell Vostro 3515,Dell,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,309000.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,256,SSD,8,15.6,Core i3-1215U 3.3 ГГц,310600.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,310800.0
+ Lenovo V15 G2 ALC,Lenovo,512,SSD,8,15.6,Ryzen 3-5300U 2.6 ГГц,311100.0
+ HP 245 G9,HP,256,SSD,8,14.0,Ryzen 5-5625U 2.3 ГГц,311850.0
+ HP 255 G9,HP,256,SSD,8,15.6,Ryzen 5 5625U 2.3 ГГц,311850.0
+ HP 240 G8,HP,256,SSD,8,14.0,Core i5-1035G1 1.0 ГГц,311900.0
+ Lenovo IdeaPad L3 15ITL6,Lenovo,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,312200.0
+ HP Europe 255 G8,HP,256,SSD,4,15.6,Ryzen 3-3250U 2.6 ГГц,313500.0
+ Lenovo V15 IML,Lenovo,256,SSD,4,15.6,Core i3-10110U 2.1 ГГц,313500.0
+ HP 15-dw1003ur,HP,256,SSD,4,15.6,Core i3-10110U,313700.0
+ Dell Vostro 3520,Dell,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,314130.0
+ HP 15s-fq5039c,HP,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,314990.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,316876.0
+ Lenovo IdeaPad 3 15ALC6,Lenovo,512,HDD,8,15.6,Ryzen 5-5500U 2.1 ГГц,318300.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,318500.0
+ Lenovo IdeaPad Slim 3 15IRH8,Lenovo,512,SSD,16,15.6,Core i7-13620H 2.4 ГГц,318854.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,319800.0
+ Lenovo V155-15API 8 GB,Lenovo,256,SSD,8,15.6,Ryzen 3 3200U,320000.0
+ Lenovo IdeaPad S145-15IIL,Lenovo,256,SSD,4,15.6,Core i3 1005G1 1200 МГц,320000.0
+ Lenovo IdeaPad IP3 15ARE05,Lenovo,256,SSD,4,15.6,Ryzen 3 4300U 2700 МГц,320000.0
+ HP Europe 240 G8,HP,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,320513.0
+ HP Europe Probook 450 G8,HP,256,SSD,4,15.6,Core i3-1115G4 1.7 ГГц,320900.0
+ HP 17-ca2036ur,HP,512,SSD,8,17.3,Ryzen 3 3250U 2600 МГц,321500.0
+ Lenovo Ideapad 3,Lenovo,256,SSD,4,15.6,Ryzen 3-3250U 2.6 ГГц,321500.0
+ Dell Inspiron 3501,Dell,1000,HDD,4,15.6,Core i3 1005G1 1.2 ГГц,321500.0
+ Lenovo IdeaPad 3 14ADA05,Lenovo,512,HDD,8,14.0,Ryzen 5-3500U 2.1 ГГц,321900.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 3 5300U 2.6 ГГц,323000.0
+ Lenovo V15 G2 ALC ,Lenovo,512,SSD,8,15.6,Ryzen R5-5500U 2.1 ГГц,324100.0
+ Huawei MateBook D15,Huawei,512,SSD,8,15.6,Core i5-1155G7 2.5 ГГц,325500.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,256,SSD,8,15.6,Core i3-1215U 3.3 ГГц,325800.0
+ Lenovo 82H800LARK,Lenovo,256,SSD,8,15.6,Core i3 1115G4,326200.0
+ HP 255 G8,HP,1024,HDD,8,15.6,Ryzen 3 5300U 2.6 ГГц,326288.0
+ MSI Modern 15 B12MO-692XKZ,MSI,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,326550.0
+ Dell Vostro 3520,Dell,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,326680.0
+ MSI 9S7-14D334-889,MSI,256,SSD,8,14.0,1115G4,327300.0
+ Asus ExpertBook B1 B1400CEAE-EB6271,Asus,256,SSD,8,14.0,Core i3-1115G4 3.0 ГГц,327731.0
+ Dell Precision 5510,Dell,512,SSD,32,15.0,Core i7-6820HQ 2.7 ГГц,327900.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,329175.0
+ Asus ExpertBook B1 B1400CEAE-EB2898,Asus,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,329332.0
+ Dell Vostro 3400,Dell,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,329900.0
+ Lenovo ThinkPad T495s,Lenovo,250,SSD,8,14.0,Ryzen 5-3500U 2.1 ГГц,329900.0
+ HP ProBook 440 G9,HP,256,SSD,8,14.0,Core i3-1215U 4.4 ГГц,329900.0
+ Dell Latitude 7390 2-in-1,Dell,512,SSD,16,13.0,Core i7-8650U 1.9 ГГц,329900.0
+ Lenovo ThinkBook 15 G3,Lenovo,256,SSD,8,15.6,Ryzen 3-5300U 2.6 ГГц,329900.0
+ HP EliteBook x360 1030 G2,HP,512,SSD,8,13.3,Core i5-7300U 2.6ГГц,329900.0
+ Lenovo V15 Gen 3,Lenovo,512,SSD,8,15.6,Core i7-1255U 1.7 ГГц,330680.0
+ Asus ExpertBook B1 B1402CBA-EB0563X,Asus,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,330685.0
+ Dell Vostro 3420,Dell,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,330931.0
+ Lenovo IdeaPad IP3 17ADA05,Lenovo,256,SSD,8,17.3,Ryzen 3-3250U 2.6 ГГц,331800.0
+ Lenovo 82RK00EYRK,Lenovo,512,SSD,8,15.6,Core i3 1215U,332800.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,332900.0
+ Lenovo IdeaPad 3 15ITL6,Lenovo,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,332900.0
+ HP EliteBook Folio 1040 G3,HP,250,SSD,8,14.0,"Core i7-6600U - 2,6 ГГц",332900.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,334400.0
+ Lenovo IdeaPad L340-15API Ryzen 5 3500U,Lenovo,256,SSD,4,15.6,Ryzen 5 3500U (4x2100 МГц),334400.0
+ HP 17-by4008ur,HP,256,SSD,8,17.3,Core i3 1115G4 3000 МГц,334400.0
+ Lenovo IdeaPad Slim 3 15IRH8,Lenovo,1024,SSD,16,15.6,Core i7-13620H 2.4 ГГц,334783.0
+ HP 470 G9,HP,256,SSD,8,17.3,Core i3-1215U 1.2 ГГц,334950.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,335804.0
+ HP Europe 240 G8,HP,256,SSD,8,14.0,Core i5-1115G4 3.0 ГГц,336000.0
+ Asus ExpertBook B1 B1400CBA,Asus,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,336354.0
+ Lenovo ThinkBook 14 Gen 4 ,Lenovo,512,SSD,8,14.0,Core i5-1235U 0.9 ГГц,336500.0
+ Asus ExpertBook B1 B1502CBA,Asus,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,336756.0
+ Lenovo V15 G3 IAP,Lenovo,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,337500.0
+ Asus ExpertBook P1512CEA-BQ0048X,Asus,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,337568.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,337700.0
+ HP 250 G9,HP,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,337838.0
+ HP Europe 240 G8,HP,256,SSD,8,14.0,Core i5-1035G1 1.0 ГГц,337900.0
+ Lenovo 82RN00CKRK,Lenovo,512,SSD,8,15.6,Ryzen 5 5625U,338400.0
+ Lenovo IdeaPad 3 15ALC6,Lenovo,1000,HDD,8,15.6,Ryzen 5-5500U 2.1 ГГц,338400.0
+ Dell Latitude 3410 (210-AVKY),Dell,1024,SSD,4,14.0,Core i3-10110U,338400.0
+ HP ProBook 440 G9,HP,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,340425.0
+ Lenovo V15 G2 ITL,Lenovo,256,SSD,4,15.6,Core i3-1115G4 3.0 ГГц,340500.0
+ Dell Vostro 3520,Dell,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,341230.0
+ Lenovo IdeaPad 3 15ADA6,Lenovo,512,HDD,8,15.6,Ryzen 7-3700U 2.3 ГГц,341400.0
+ Dell Vostro 3520,Dell,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,341730.0
+ HP 240 G9,HP,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,342869.0
+ Dell Vostro 3515,Dell,512,SSD,8,15.6,Ryzen 7-3700U 2.3 ГГц,343533.0
+ HP 250 G8,HP,512,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,343613.0
+ HP 250 G8,HP,512,SSD,16,15.6,Core i3-1005G1 1.2 ГГц,343700.0
+ Dell XPS 13 9365,Dell,256,SSD,16,13.0,Core i7-7Y75 - 1.3 ГГц,343900.0
+ Dell Vostro 3420,Dell,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,344200.0
+ HP 15s-fq5033ci,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,344295.0
+ Lenovo IdeaPad L3 15ITL6,Lenovo,1000,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,344500.0
+ Dell Vostro 3501,Dell,256,SSD,4,15.6,Core i3-1005G1 1.2 ГГц,344900.0
+ Lenovo 20VG0077RU,Lenovo,256,SSD,4,15.6,4500U,345300.0
+ MSI Modern 15 B7M-274XKZ,MSI,512,SSD,16,15.6,Ryzen 7-7730U 2.0 ГГц,346143.0
+ HP 15s-eq3077ci,HP,512,SSD,8,15.6,Ryzen 7-5825U 2.0 ГГц,346490.0
+ Lenovo ThinkBook E15 G2,Lenovo,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,346640.0
+ Lenovo ThinkBook 15 Gen 2,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,347221.0
+ HP 250 G8 ,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,348200.0
+ Asus ExpertBook B1 B1400CBA-EB1746,Asus,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,348205.0
+ HP Europe 240 G8,HP,256,SSD,8,14.0,Core i3-1005G1 1.2 ГГц,348300.0
+ HP ProBook 440 G8,HP,256,SSD,8,14.0,Core i3-1115G4 3.0 ГГц,348600.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,348774.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,512,SSD,8,15.6,Core i3-1215U 3.3 ГГц,349700.0
+ HP 255 G7,HP,256,SSD,8,15.6,Ryzen 3-3200U 2.6 ГГц,349700.0
+ Dell Precision 3520,Dell,256,SSD,16,15.6,Core i7-7820HQ 2.9 ГГц,350900.0
+ Lenovo ThinkPad P50,Lenovo,512,SSD,16,15.0,Core i7-6820HQ 2.7 ГГц,350900.0
+ Dell Vostro 3515,Dell,512,SSD,8,15.6,Ryzen 7-3700U 2.3 ГГц,351500.0
+ Dell Vostro 3500,Dell,256,HDD,8,15.6,Core i3-1115G4 3.0 ГГц,352700.0
+ Lenovo S145-15IWL,Lenovo,1000,HDD,8,15.6,Core i5 8265U 1.6 ГГц,352700.0
+ Lenovo IdeaPad 3 15ALC6,Lenovo,256,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,352800.0
+ HP 15s-eq3064ci,HP,512,SSD,8,15.6,Ryzen 5-5625U 2.1 ГГц,353000.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,353700.0
+ Lenovo IdeaPad 3 15ITL6,Lenovo,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,355200.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,356200.0
+ Asus ExpertBook B1 B1502CVA-BQ0343,Asus,512,SSD,8,15.6,Core i5-1335U 1.3 ГГц,356569.0
+ Dell Latitude 3410,Dell,1000,HDD,4,14.0,Core i3 10110U 2.1 ГГц,356800.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,357700.0
+ Dell Inspiron 15 3505,Dell,256,SSD,8,15.6,Ryzen 5-3450U 2.1 ГГц,358000.0
+ HP ProBook 455 G8,HP,256,SSD,8,15.6,Ryzen 3 5400U 2.6 ГГц,358500.0
+ HP Europe 250 G8,HP,1000,HDD,8,15.6,Core i5-1035G1 1.0 ГГц,359400.0
+ Lenovo V15 G2 ALC ,Lenovo,512,SSD,8,15.6,Ryzen 7-5700U 1.8 ГГц,359700.0
+ Lenovo ThinkPad P50,Lenovo,256,SSD,24,15.0,Core i7-6820HQ 2.7 ГГц,360900.0
+ HP 250 G8,HP,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,360938.0
+ HP Pavilion 15-eh2043ci,HP,512,SSD,8,15.6,Ryzen 5-5625U 2.3 ГГц,361190.0
+ Dell Vostro 3515,Dell,512,SSD,8,15.6,Ryzen 5-3450U 2.1 ГГц,361500.0
+ HP Pavilion 15-eh0002ur,HP,256,SSD,4,15.6,Ryzen 3-4300U 2.7 ГГц,361500.0
+ Asus ExpertBook B1 B1500CBA-BQ0499,Asus,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,362660.0
+ HP 470 G8,HP,256,SSD,8,17.3,Core i3-1125G4 2.0 ГГц,362800.0
+ Dell Vostro 3420,Dell,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,362900.0
+ Lenovo 82H802NHRK,Lenovo,512,SSD,8,15.6,Core i3 1115G4,362900.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 5-3500U 2.1 ГГц,362900.0
+ Asus Laptop X409FA-BV611T,Asus,256,SSD,4,14.0,Core i3-10110U 2.1 ГГц,363100.0
+ Dell Vostro 3520,Dell,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,363110.0
+ Lenovo V14 Gen 2,Lenovo,512,SSD,4,14.0,Core i3-1115G4 3.0 ГГц,363600.0
+ HP ENVY 13-ba1023ur,HP,256,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,363603.0
+ Lenovo IdeaPad 3 15ABA7,Lenovo,512,SSD,8,15.6,Ryzen 5 5625U 2.3 ГГц,363700.0
+ HP 255 G7,HP,256,SSD,8,15.6,Ryzen 3-3200U 2.6 ГГц,363800.0
+ HP 240 G9,HP,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,363825.0
+ Dell Latitude 7480,Dell,512,SSD,16,14.0,Core i7-7600U 2.5 ГГц,364000.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,364400.0
+ HP ProBook 440 G9,HP,512,SSD,16,14.0,Core i3-1215U 1.2 ГГц,364900.0
+ HP 240 G8,HP,256,SSD,8,14.0,Core i3-1115G4 3.0 ГГц,365000.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 5-3500U 2.1 ГГц,365100.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,365600.0
+ Dell Latitude 3190 8 GB,Dell,128,SSD,8,11.6,Pentium N5030,365800.0
+ Lenovo IP L340-15API Ryzen 5 ,Lenovo,128,SSD,4,15.6,Ryzen 5 3500U,365800.0
+ Lenovo 82KB003CRU,Lenovo,512,SSD,8,15.6,Core i5-1135G7,366200.0
+ HP 250 G8,HP,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,366500.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,366900.0
+ HP Europe 250 G8,HP,1000,HDD,8,15.6,Core i5-1035G1 1.0 ГГц,367100.0
+ HP 15s-fq2035ur,HP,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,367395.0
+ HP 250 G9,HP,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,367490.0
+ HP Pavilion 14-ec0002ur,HP,512,SSD,8,14.0,Ryzen 5-5500U 2.1 ГГц,367490.0
+ HP EliteBook 630 G9,HP,256,SSD,8,13.3,Core i3-1215U 1.2 ГГц,367600.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i5-1035G1 1.0 ГГц,367700.0
+ Dell Precision 7510,Dell,1000,SSD,16,15.0,Core i7-6820HQ 2.7 ГГц,367900.0
+ Dell Vostro 5471,Dell,256,HDD+SSD,8,14.0,Core i5 8250U 1.6 ГГц,367900.0
+ Asus Vivobook 15X X1503ZA-L1491W,Asus,512,SSD,8,15.6,Core i3-1220P 1.1 ГГц,368730.0
+ Asus ExpertBook B1 B1400CEAE-EB6271W,Asus,256,SSD,8,14.0,Core i3-1115G4 3.0 ГГц,369050.0
+ Asus ExpertBook B1 B1500CBA,Asus,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,369492.0
+ Lenovo ThinkPad E15 Gen 4,Lenovo,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,369600.0
+ MSI Modern 15 B13M-693XKZ,MSI,512,SSD,16,15.6,Core i5-1335U 1.3 ГГц,370090.0
+ HP 15-db1274ur,HP,512,SSD,8,15.6,Ryzen 5 3500U 2100 МГц,371000.0
+ Dell Latitude 3510,Dell,256,SSD,8,15.6,Core i3 10110U 2.1 ГГц,371300.0
+ Lenovo IdeaPad L3 15ITL6,Lenovo,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,371700.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,256,SSD,8,15.6,Core i5-1235U 3.3 ГГц,372700.0
+ Lenovo 82RK00J5RK,Lenovo,256,SSD,8,15.6,Core i3 1235U,372800.0
+ Asus ExpertBook B1 B1502CVA-BQ0345,Asus,512,SSD,16,15.6,Core i5-1335U 1.3 ГГц,373188.0
+ Lenovo IdeaPad 3 15ADA05 Ryzen 5 3500U,Lenovo,256,SSD,8,15.6,Ryzen 5 3500U (4x2100 МГц),373700.0
+ HP 15-eh0010ur,HP,256,SSD,8,15.6,Ryzen 5 4500U 2300 МГц,373700.0
+ Lenovo ThinkBook 15 Gen 3,Lenovo,256,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,373750.0
+ Dell Precision M4800,Dell,1000,HDD+SSD,32,15.0,"Core i7 4810MQ - 2,8 ГГц",373900.0
+ Dell Vostro 3400,Dell,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,374300.0
+ Lenovo V14 Gen 2,Lenovo,256,SSD,8,14.0,Core i3-1115G4 3.0 ГГц,375700.0
+ HP ZBook Studio G4,HP,512,SSD,32,15.6,Core i7-7820HQ 2.9 ГГц,375900.0
+ Lenovo V15 G2 ITL,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,376000.0
+ Dell Vostro 3515 3450U,Dell,256,SSD,8,15.6,Ryzen 5 3450U,376300.0
+ Lenovo 20VE0094RU (3Y),Lenovo,512,SSD,8,15.6,Core i3 1115G4,376900.0
+ Dell Vostro 3520,Dell,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,377930.0
+ Dell Vostro 3500,Dell,1024,HDD,4,15.6,Core i5-1135G7 2.4 ГГц,378800.0
+  Lenovo IP L340-15API  SSD256Gb,Lenovo,256,SSD,4,15.6,Ryzen 5 3500U,378800.0
+ Lenovo IP L340-15API,Lenovo,1000,HDD+SSD,8,15.6,Ryzen 3 3200U,378900.0
+ HP 14S-DQ2006UR,HP,512,SSD,8,14.0,Core i3-1115G4 3.0 ГГц,380100.0
+ Lenovo IdeaPad L340-15API Ryzen 5 3500U 8 GB,Lenovo,256,SSD,8,15.6,Ryzen 5 3500U 2100 МГц,380100.0
+ Lenovo IdeaPad Pro 16ACH6,Lenovo,512,SSD,16,16.0,Ryzen 5-5600H 3.3 ГГц,381080.0
+ HP Pavilion 14-dv0094ur,HP,512,SSD,8,14.0,Core i3-1125G4 2.0 ГГц,381500.0
+ Dell Vostro 3500,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,382091.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,382207.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,382600.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,382915.0
+ Lenovo ThinkBook 15 Gen 4,Lenovo,512,SSD,8,15.6,Core i5-1235U 0.9 ГГц,383750.0
+ Lenovo IdeaPad 3 Gen 7,Lenovo,512,SSD,16,15.6,Ryzen 7-5825U 2.0 ГГц,385024.0
+ HP ProBook 440 G8 UMA,HP,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,385300.0
+ Asus Vivobook Pro 15 M6500QH-HN075,Asus,512,SSD,8,15.6,Ryzen 5-5600H 3.3 ГГц,385830.0
+ Lenovo ThinkPad P52,Lenovo,512,SSD,8,15.6,Core i7-8850H 2.6 ГГц,385900.0
+ Dell Vostro 3500,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,385946.0
+ Lenovo 82TT0041RU,Lenovo,1024,HDD+SSD,16,15.6,Core i3 1235U,386400.0
+ Lenovo ThinkPad E15 Gen 4,Lenovo,256,SSD,8,15.6,Ryzen 5-5625U 2.3 ГГц,386813.0
+ HP ProBook 440 G9 ,HP,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,387000.0
+ Lenovo ThinkBook 15-IIL,Lenovo,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,387600.0
+ MSI 9S7-14DL24-200,MSI,256,SSD,8,14.0,5500U,387800.0
+ HP 255 G7,HP,512,SSD,8,15.6,Ryzen 5 3500U 2100 МГц,388000.0
+ Asus ExpertBook L1 L1500CDA,Asus,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,388811.0
+ HP ProBook 440 G9,HP,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,389454.0
+ Dell Vostro 3515,Dell,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,391200.0
+ Lenovo Flex 5 14IIL05,Lenovo,256,SSD,4,14.0,Core i3 1005G1,392000.0
+ Lenovo V15 G2 ALC,Lenovo,512,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,392300.0
+ HP Europe 240 G8 ,HP,256,SSD,8,14.0,Core i3-1115G4 1.7 ГГц,393200.0
+ Asus VivoBook 15X K3504VA-MA221,Asus,512,SSD,16,15.6,Core i5-1340P 1.9 ГГц,393730.0
+ HP 250 G7,HP,256,SSD,8,15.6,Core i3-1005G1 1.2 ГГц,395900.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,396700.0
+ Asus ExpertBook B1 B1502CBA-BQ0393X,Asus,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,397272.0
+ Asus ExpertBook B1 B1402CBA-EB0564X,Asus,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,397272.0
+ Lenovo ThinkBook 15 G3 ACL,Lenovo,512,SSD,16,15.6,Ryzen 5-5500U 2.1 ГГц,397500.0
+ Lenovo ThinkBook 14 Gen 4,Lenovo,256,SSD,8,14.0,Ryzen 5-5625U 2.3 ГГц,398750.0
+ HP Pavilion Gaming 17-cd2043ur,HP,512,SSD,8,17.3,Core i5-11300H 3.1 ГГц,398990.0
+ HP ProBook 450 G9,HP,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,398990.0
+ HP 15s-eq2104ur,HP,512,SSD,8,15.6,Ryzen 7-5700U 1.8 ГГц,399100.0
+ Lenovo Yoga Pro 7 14ARP8,Lenovo,512,SSD,16,14.5,Ryzen 5-7535HS 3.3 ГГц,400138.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,401379.0
+ Lenovo IdeaPad 3 15IAU7,Lenovo,512,SSD,8,15.6,Core i5-1235U 3.3 ГГц,401400.0
+ Dell Vostro 3510,Dell,512,SSD,16,15.6,Core i5-1135G7 2.4 ГГц,401918.0
+ Dell Vostro 3515,Dell,256,SSD,8,15.6,Ryzen 5-3450U 2.1 ГГц,402000.0
+ Asus ExpertBook B1 B1400CEAE-EB4024X,Asus,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,403619.0
+ HP Europe ProBook 430 G8,HP,512,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,403900.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,405930.0
+ Dell Inspiron 5488,Dell,1000,HDD,8,14.0,Core i5 8265U 1.6 ГГц,406900.0
+ HP Probook 430 G8 ,HP,512,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,407138.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i5-1035G1 1.0 ГГц,407400.0
+ HP Laptop PC 15-da3021ur,HP,256,SSD,8,15.6,Core i5 1035G1 1 ГГц,407600.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,407846.0
+ Dell Vostro 3515,Dell,256,SSD,8,15.6,Ryzen 3-3250U 2.6 ГГц,408800.0
+ Dell Precision 3520,Dell,512,SSD,16,15.0,Core i7-7820HQ 2.9 ГГц,408900.0
+ Dell Latitude 3510,Dell,1000,HDD,8,15.6,Core i5-10210U 1.6 ГГц,408900.0
+ Lenovo ThinkBook 15 G2 Are,Lenovo,256,SSD,4,15.6,Ryzen 5-4500U 2.3 ГГц,408900.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,409100.0
+ Asus VivoBook Pro 14 M3401QA,Asus,512,SSD,8,14.0,Ryzen 5-5600H 3.3 ГГц,409628.0
+ Lenovo IdeaPad 3 17ITL6,Lenovo,256,SSD,8,17.3,Core i3-1115G4 3.0 ГГц,410000.0
+ HP ZBook 15 G5,HP,1024,SSD,32,15.6,Intel® Core™ i7-8850H 2.6 GHz,410900.0
+ Lenovo ThinkBook 14 Gen 4,Lenovo,512,SSD,8,14.0,Ryzen 5-5625U 2.3 ГГц,411250.0
+ HP 240 G8,HP,256,SSD,8,14.0,Core i5-1035G1 1.0 ГГц,412900.0
+ Asus Vivobook 15X X1503ZA-L1147W,Asus,512,SSD,8,15.6,Core i5-12500H 2.5 ГГц,413071.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,413280.0
+ HP ProBook 440 G8,HP,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,413500.0
+ Lenovo IdeaPad Gaming 3 15ARH7,Lenovo,512,SSD,8,15.6,Ryzen 5-6600H 3.3 ГГц,413966.0
+ HP Pavilion Gaming 17-cd2081ur,HP,512,SSD,8,17.3,Core i5-11300H 3.1 ГГц,414740.0
+ Lenovo ThinkBook 15 G4,Lenovo,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,415000.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 5-3500U 2.1 ГГц,415400.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 5 5500U 2.1 ГГц,415700.0
+ Lenovo ThinkBook 15 Gen 4,Lenovo,256,SSD,8,15.6,Ryzen 5-5625U 2.3 ГГц,416666.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,416718.0
+ Dell Vostro 3420,Dell,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,416931.0
+ HP ProBook 440 G9,HP,256,SSD,8,14.0,Core i5-1235U 4.4 ГГц,417100.0
+ HP 17-cp1016ci,HP,512,SSD,16,17.3,Ryzen 5-5625U 2.3 ГГц,417900.0
+ Lenovo ThinkPad W541,Lenovo,256,SSD,16,15.0,Core i7-4600M - 2.9 ГГц,417900.0
+ Dell Vostro 5501,Dell,256,SSD,4,15.6,Core i5-1035G1 1.0 ГГц,418000.0
+ HP 255 G8,HP,256,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,418300.0
+ HP ProBook 445 G8,HP,256,SSD,8,14.0,Ryzen 3-5400U 2.6 ГГц,418688.0
+ HP ProBook 450 G8,HP,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,418800.0
+ Dell Latitude 3520,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,419300.0
+ Lenovo ThinkBook 15 Gen 2 ITL,Lenovo,256,SSD,8,15.6,Core i3-1115G4,419440.0
+ HP Victus 15-fb1003ci,HP,512,SSD,16,15.6,Ryzen 5-7535HS 3.3 ГГц,419990.0
+ HP 250 G9,HP,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,419990.0
+ HP Victus 15-fa0065ci,HP,512,SSD,16,15.6,Core i5-12450H 2.0 ГГц,419990.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,419990.0
+ HP ZBook 14u G5,HP,512,SSD,16,14.0,Core i7-8650U 1.9 ГГц,420900.0
+ Dell Vostro 3400,Dell,256,SSD,8,14.0,Core i5 1135G7,421300.0
+ Lenovo V17 IIL,Lenovo,256,SSD,8,17.3,Core i3-1005G1 1.2 ГГц,421300.0
+ Lenovo ThinkBook 15 G3 ACL,Lenovo,256,SSD,8,15.6,Ryzen 3-5300U 2.6 ГГц,421900.0
+ HP 15-da3021ur,HP,256,SSD,8,15.6,Core i5-1035G1 1000 МГц,421900.0
+ HP ProBook 440 G9 ,HP,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,422400.0
+ Dell Vostro 3501,Dell,256,SSD,8,15.6,Core i3 1005G1 1.2 ГГц,423300.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,423660.0
+ HP ProBook 440 G8,HP,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,424500.0
+ HP ProBook 455 G8,HP,512,SSD,8,15.6,Ryzen 5-5600U 2.3 ГГц,424600.0
+ Asus Vivobook 17X K3704VA,Asus,512,SSD,8,17.3,Core i5-13500H 2.6 ГГц,424998.0
+ Lenovo IPL3 15IML05 ,Lenovo,256,SSD,8,15.6,Core i3 10110U,425500.0
+ Dell Inspiron 5584 GeForce MX130,Dell,1000,HDD,4,15.6,Intel Core i5 8265U 1.6 ГГц,426000.0
+ Lenovo 82TT001TRU,Lenovo,512,SSD,8,15.6,Intel Core i7-1255U,426400.0
+ Asus Vivobook Pro 16 K6602HC,Asus,512,SSD,16,16.0,Core i5-11400H 2.7 ГГц,427882.0
+ HP ProBook 450 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,428400.0
+ HP ProBook 440 G8,HP,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,428900.0
+ MSI Modern 14 B4MW-236XKZ,MSI,512,SSD,8,14.0,AMD Ryzen 5 4500U,429800.0
+ HP ProBook 455 G9,HP,512,SSD,8,15.6,Ryzen 5-5625U 2.3 ГГц,430193.0
+ Lenovo ThinkPad L15 Gen 3,Lenovo,512,SSD,8,15.6,Ryzen 5 Pro-5675U 2.3 ГГц,430500.0
+ Lenovo ThinkBook 15 G4,Lenovo,512,SSD,8,15.6,Ryzen 5-5625U 2.3 ГГц,430555.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i3-1005G1 1.0 ГГц,430700.0
+ Dell Vostro 3400,Dell,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,431100.0
+ lenovo IdeaPad 3 15ARE05,Lenovo,256,SSD,8,15.6,Ryzen 5-4500U 2.3 ГГц,431100.0
+ Dell Vostro 3500,Dell,256,SSD,8,15.6,Core i5 1135G7 2.4 ГГц,431100.0
+ Dell Vostro 3500,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,431300.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,431700.0
+ Asus ExpertBook B1 B1500CEAE,Asus,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,431794.0
+ Lenovo IdeaPad 3 17ADA05,Lenovo,512,SSD,8,17.3,Ryzen 5-3500U 2.1 ГГц,432200.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,432551.0
+ HP Zbook 15 G3,HP,512,SSD,32,15.0,"Core i7-6700HQ - 2,7 ГГц",432900.0
+ HP 250 G9,HP,512,SSD,8,15.6,Core i7-1255U 1.7 ГГц,433125.0
+ HP 15-db1209ur,HP,512,SSD,8,15.6,Ryzen 7 3700U 2300 МГц,433800.0
+ MSI Modern 15 H B13M-041XKZ,MSI,512,SSD,16,15.6,Core i7-13700H 2.4 ГГц,435404.0
+ HP Pavilion Gaming 17-cd2080ur,HP,512,SSD,8,17.3,Core i5-11300H 3.1 ГГц,435740.0
+ Lenovo 82KB003MRU,Lenovo,256,SSD,8,15.6,Core i5-1135G7,435800.0
+ Lenovo ThinkBook 16 Gen 6,Lenovo,256,SSD,8,16.0,Core i3-1315U 1.2 ГГц,436000.0
+ HP ProBook 440 G9,HP,256,SSD,8,14.0,Core i3-1215U 1.2 ГГц,436013.0
+ Lenovo ThinkPad E15 Gen 2,Lenovo,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,436240.0
+ Dell 210-AXUD N3006VN3500EMEA01_2105_UBU,Dell,512,SSD,8,15.6,Core i5 1135G7,436600.0
+ HP ProBook 450 G9,HP,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,436900.0
+ HP ProBook 455 G9,HP,512,SSD,8,15.6,Ryzen 7-5825U 2.0 ГГц,437100.0
+ Lenovo ThinkBook 15 Gen 2 ITL,Lenovo,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,437499.0
+ HP ProBook 445 G8,HP,256,SSD,8,14.0,Ryzen 5-5600U 2.3 ГГц,437700.0
+ HP ProBook 455 G8,HP,256,SSD,8,15.6,Ryzen 5-5600U 2.3 ГГц,437700.0
+ Lenovo IdeaPad 3 15ITL6,Lenovo,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,438000.0
+ Lenovo ThinkBook 15 Gen 4,Lenovo,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,438300.0
+ Lenovo IdeaPad 3 15ITL6,Lenovo,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,438500.0
+ HP ProBook 440 G10,HP,512,SSD,16,14.0,Core i5-1335U 1.3 ГГц,438900.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,438900.0
+ Lenovo IdeaPad Gaming 3,Lenovo,512,SSD,8,16.0,Core i5-12450H 2.0 ГГц,439116.0
+ Dell Vostro 5402,Dell,256,SSD,8,14.0,Core i5-1135G7 4.2 ГГц,439900.0
+ Lenovo IdeaPad 5 Pro Gen 6,Lenovo,512,SSD,16,14.0,Core i5-1135G7 2.4 ГГц,441400.0
+ Dell Vostro 3510,Dell,512,SSD,16,15.6,Core i5-1135G7 2.4 ГГц,442513.0
+ Lenovo Yoga Pro 7 14IRH8,Lenovo,512,SSD,16,14.5,Core i5-13500H 2.6 ГГц,444635.0
+ HP ProBook 450 G5,HP,500,HDD,4,15.6,Core i3 7100U 2.4 ГГц,445200.0
+ Apple MacBook Pro 13.3,Apple,500,SSD,16,13.3,Core i7-67 00HQ2.6 ГГц,445900.0
+ HP ProBook 445 G9,HP,512,SSD,8,14.0,Ryzen 5-5625U 2.3 ГГц,446100.0
+ Lenovo IP 5 14ARE05,Lenovo,512,SSD,8,14.0,Ryzen 7 4700U,446200.0
+ Asus ExpertBook B1 B1502CVA-BQ0347,Asus,512,SSD,16,15.6,Core i7-1355U 1.8 ГГц,447306.0
+ Dell 210-AXUD N3004VN3500EMEA01_2105_UBU,Dell,256,SSD,8,15.6,Core i5 1135G7,448100.0
+ HP EliteBook 650 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,448200.0
+ Lenovo ThinkBook 15 G4,Lenovo,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,448763.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,449277.0
+ Dell Vostro 3500,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,449500.0
+ Dell Vostro 3520,Dell,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,449830.0
+ Asus ExpertBook B1 B1500CBA-BQ1339X,Asus,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,450216.0
+ HP ProBook 440 G9,HP,512,SSD,8,14.0,Core i5-1235U 4.4 ГГц,450400.0
+ HP 255 G10,HP,512,SSD,16,15.6,Ryzen 5-7530U 2.0 ГГц,450450.0
+ HP ProBook 440 G9,HP,512,SSD,16,14.0,Core i5-1240P 1.7 ГГц,450450.0
+ HP Europe ProBook 640 G8,HP,256,SSD,8,14.0,Core i3-1115G4 3.0 ГГц,451500.0
+ MSI GF63 Thin 11UC,MSI,512,SSD,8,15.6,Core i5-11400H 2.7 ГГц,451756.0
+ MSI GF63 Thin 11UC-1027XKZ,MSI,512,SSD,8,15.6,Core i5-11400H 2.2 ГГц,451790.0
+ Dell Latitude 3510,Dell,256,SSD,8,15.6,Core i3-10110U 2.1 ГГц,452000.0
+ HP 250 G8,HP,1000,HDD,8,15.6,Core i7-1065G7 1.3 ГГц,452000.0
+ HP ProBook 450 G9,HP,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,452356.0
+ Asus ExpertBook B1 B1502CVA-BQ0344X,Asus,512,SSD,8,15.6,Core i5-1335U 1.3 ГГц,452605.0
+ Asus ExpertBook B1 B1402CVA-EB0423X,Asus,512,SSD,8,14.0,Core i5-1335U 1.3 ГГц,452605.0
+ HP 250 G10,HP,512,SSD,16,15.6,Core i5-1335U 1.3 ГГц,453338.0
+ HP ProBook 450 G9,HP,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,453967.0
+ Dell Latitude 3540 ,Dell,256,SSD,8,15.6,Core i3 1315U 1.2GHz,454349.0
+ Lenovo ThinkBook 15 G3 ACL,Lenovo,1024,HDD+SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,455300.0
+ HP ProBook 440 G8,HP,256,SSD,8,14.0,Core i3-1115G4 3.0 ГГц,455600.0
+ Dell Latitude 3510 210-AVLN N007L351015EMEA,Dell,1000,HDD,8,15.6,Core i5-10210U,457300.0
+ Lenovo IdeaPad 5 14IIL05,Lenovo,512,SSD,8,14.0,Core i5 1035G1 1 ГГц,457300.0
+ HP ProBook 440 G8,HP,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,457500.0
+ Asus Vivobook S 14 M3402RA-KM112,Asus,512,SSD,16,14.0,Ryzen 7-6800H 3.2 ГГц,458483.0
+ MSI Modern 14 B5M-200XKZ,MSI,256,SSD,8,14.0,Ryzen 5-5500U 2.1 ГГц,458500.0
+ HP ProBook 440 G9,HP,512,SSD,16,14.0,Core i5-1235U 1.3 ГГц,458600.0
+ HP 250 G8,HP,256,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,459113.0
+ Lenovo Yoga Pro 7 14IRH8,Lenovo,512,SSD,16,14.5,Core i7-13700H 2.4 ГГц,459383.0
+ Asus Vivobook S 16X M5602QA-KV124W,Asus,512,SSD,16,16.0,Ryzen 5-5600H 3.3 ГГц,460182.0
+ Gigabyte 9RC14UD01MG60DRU000,Gigabyte,512,SSD,16,14.0,1195G7,460400.0
+ Lenovo IdeaPad 3 Gaming,Lenovo,512,SSD,8,16.0,Ryzen 5-6600H 3.3 ГГц,461938.0
+ Asus TUF Gaming F15 FX507ZC4,Asus,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,463478.0
+ HP 250 G9,HP,512,SSD,16,15.6,Core i7-1260P 2.1 ГГц,464888.0
+ Asus ExpertBook B5 B5302CBA,Asus,512,SSD,8,13.3,Core i5-1235U 1.3 ГГц,465478.0
+ Lenovo ThinkBook 14 G3 ACL,Lenovo,512,SSD,16,14.0,Ryzen 7-5700U 1.8 ГГц,466300.0
+ HP ProBook 430 G8,HP,128,SSD,4,13.3,Core i3-1115G4 3.0 ГГц,466400.0
+ Asus Vivobook S 14 M3402RA-KM117,Asus,1024,SSD,16,14.0,Ryzen 7-6800H 3.2 ГГц,466708.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,466763.0
+ HP ProBook 440 G9,HP,256,SSD,8,14.0,Core i5-1235U 4.4 ГГц,466763.0
+ Lenovo ThinkPad E15G4,Lenovo,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,466800.0
+ HP ProBook 450 G9,HP,256,SSD,8,15.6,Core i3-1215U 1.2 ГГц,467240.0
+ Asus VivoBook Pro K3400PA,Asus,256,SSD,8,14.0,Core i5-11300H 3.1 ГГц,467476.0
+ HP Europe ProBook 455 G8,HP,512,SSD,8,15.6,Ryzen 5-5600U 2.6 ГГц,467600.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,468000.0
+ HP ProBook 430 G8,HP,512,SSD,8,13.3,Core i7-1165G7 2.8 ГГц,468100.0
+ Dell Vostro 3515,Dell,256,SSD,8,15.6,Ryzen 5-3450U 2.1 ГГц,468700.0
+ HP Pavilion Laptop 15-eg2020ci,HP,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,469300.0
+ Asus ExpertBook B1 B1502CVA-BQ0346X,Asus,512,SSD,16,15.6,Core i5-1335U 1.3 ГГц,469345.0
+ Asus ExpertBook B1 B1502CBA-BQ0395X,Asus,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,469345.0
+ Asus ExpertBook B1 B1402CVA-EB0425X,Asus,512,SSD,16,14.0,Core i5-1335U 1.3 ГГц,469345.0
+ MSI Katana GF76 11UC,MSI,512,SSD,16,17.3,Core i5-11400H 2.7 ГГц,469789.0
+ Asus Vivobook Pro 14 K3400PA-KM013T,Asus,512,SSD,8,14.0,Core i5-11300H 3.1 ГГц,470160.0
+ Dell Vostro 3500,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,470200.0
+ Lenovo ThinkBook 15 G2 Are,Lenovo,1024,HDD,8,15.6,Ryzen 5 4500U 4 ГГц,470200.0
+ Lenovo Flex 5 14ARE05,Lenovo,256,SSD,8,14.0,Ryzen 5 4500U,470300.0
+ HP Pavilion 14-ec1030ci,HP,512,SSD,16,14.0,Ryzen 5-5625U 2.3 ГГц,471300.0
+ Lenovo V15 G2 ITL,Lenovo,256,SSD,4,15.6,Core i5-1135G7 2.4 ГГц,472100.0
+ HP Europe 250 G8,HP,256,SSD,8,15.6,Core i7-1065G7 1.3 ГГц,472400.0
+ Dell Vostro 5515,Dell,512,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,472900.0
+ HP 250 G8,HP,512,SSD,16,15.6,Core i5-1135G7 2.4 ГГц,474300.0
+ HP ProBook 430 G8,HP,256,SSD,8,13.3,Core i3-1115G4 3.0 ГГц,474400.0
+ Lenovo IdeaPad 3 16IAH7,Lenovo,512,SSD,8,16.0,Core i5-12450H 2.0 ГГц,474750.0
+ Lenovo ThinkPad E15 Gen 4,Lenovo,512,SSD,8,15.6,Ryzen 5 5625U 2.3 ГГц,474925.0
+ Dell Vostro 3520,Dell,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,476167.0
+  Lenovo ThinkPad E14-IML ,Lenovo,256,SSD,8,14.0,"Core i3-10110U - 2,1 ГГц",476900.0
+ Dell Vostro 3520,Dell,512,SSD,8,15.6,Core i7-1255U 1.7 ГГц,476930.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,478130.0
+ Huawei MateBook D14,Huawei,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,478200.0
+ Lenovo ThinkBook 15 Gen 2,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,479500.0
+ Lenovo IdeaPad 3 15ITL6,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,479500.0
+ HP ProBook 445 G9,HP,256,SSD,8,14.0,Ryzen 7-5825U 2.0 ГГц,479914.0
+ HP EliteBook 650 G9,HP,512,SSD,8,15.6,Core i3-1215U 1.2 ГГц,480128.0
+ Lenovo ThinkBook 15 G3 ACL,Lenovo,512,SSD,16,15.6,Ryzen 7-5700U 1.8 ГГц,481800.0
+ HP Victus Gaming Laptop 15-fa0015ci,HP,512,SSD,8,15.6,Core i5-12500H 2.5 ГГц,482100.0
+ Dell Vostro 3515,Dell,512,SSD,8,15.6,Ryzen 5-3450U 2.1 ГГц,482100.0
+ Gigabyte U4 UD-50RU823SD,Gigabyte,512,SSD,16,14.0,Core i5-1155G7,482800.0
+ Dell Inspiron 5379,Dell,512,SSD,16,13.0,"Core i7-8550U - 1,8 ГГц",482900.0
+ Acer Nitro 5 AN515-57,Acer,1024,SSD,16,15.6,Core i7-11800H 2.3 ГГц,482998.0
+ HP ProBook 440 G8,HP,512,SSD,8,14.0,Core i7-1165G7 2.8 ГГц,483100.0
+ HP ProBook 430 G8,HP,512,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,483400.0
+ Lenovo IdeaPad 3 15IIL05,Lenovo,1000,HDD+SSD,8,15.6,Core i7-1065G7 1.3 ГГц,483500.0
+ Dell Latitude 3510,Dell,256,SSD,8,15.6,Core i3-10110U 2.1 ГГц,483900.0
+ HP ProBook 450 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,484200.0
+ MSI Modern B11MOU-887XKZ,MSI,256,SSD,8,14.0,Core i5-1155G7 2.5 ГГц,484600.0
+ MSI Modern 14 B4MW-235XKZ,MSI,512,SSD,8,14.0,AMD Ryzen 7 4700U,484800.0
+ Lenovo ThinkBook 15 Gen 4,Lenovo,256,SSD,8,15.6,Core i5-1235U 0.9 ГГц,486110.0
+ Dell Inspiron 5584 i5 8265U 1.6 ГГц,Dell,1000,HDD,4,15.6,Intel Core i5 8265U 1.6 ГГц,487300.0
+ Dell Latitude 3420,Dell,256,SSD,8,14.0,Core i5-1145G7 2.6 ГГц,487900.0
+ HP ProBook 440 G9,HP,256,SSD,8,14.0,Core i7-1255U 1.7 ГГц,487988.0
+ Lenovo ThinkPad E16 Gen 1,Lenovo,512,SSD,8,16.0,Core i5-1335U 1.3 ГГц,488000.0
+ HP ProBook 440 G9,HP,512,SSD,8,14.0,Core i7-1255U 1.7 ГГц,488890.0
+ HP ProBook 450 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,488900.0
+ HP Pavilion x360 15-er1010ci,HP,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,489185.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i7-1255U 1.7 ГГц,489900.0
+ HP ENVY 13-ba1040ur,HP,512,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,490300.0
+ HP Victus 15-fa0016ci,HP,512,SSD,8,15.6,Core i5-12500H 2.5 ГГц,490340.0
+ HP 255 G10,HP,512,SSD,16,15.6,Ryzen 7-7730U 2.0 ГГц,490875.0
+ HP Envy x360 13-ay1005ur,HP,512,SSD,8,13.3,Ryzen 5-5600U 2.3 ГГц,490900.0
+ HP 470 G8,HP,512,SSD,8,17.3,Core i5-1135G7 2.4 ГГц,491200.0
+ Dell Vostro 3420,Dell,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,491470.0
+ Dell Inspiron 5405,Dell,512,SSD,8,14.0,Ryzen 5-4500U 2.3 ГГц,492500.0
+ Asus Vivobook S K3502ZA,Asus,512,SSD,8,15.6,Core i5-12500H 2.5 ГГц,493380.0
+ HP ProBook 440 G9 ,HP,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,493400.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,493800.0
+ Lenovo ThinkBook 14 Gen 6,Lenovo,256,SSD,8,14.0,Core i3-1315U 1.2 ГГц,494063.0
+ HP ProBook 455 G9,HP,256,SSD,8,15.6,Ryzen 7-5825U 2.0 ГГц,494337.0
+ Lenovo ThinkBook 16 Gen 6,Lenovo,256,SSD,8,16.0,Core i3-1315U 1.2 ГГц,494625.0
+ HP ProBook 450 G8,HP,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,494900.0
+ HP ProBook 450 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГUц,495900.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,496300.0
+ Dell Latitude 3440,Dell,256,SSD,8,14.0,Core i3-1315U 1.2 ГГц,496392.0
+ Dell Inspiron 5378,Dell,256,SSD,8,13.3,Core i7-7500U 2.7 ГГц,496500.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i7-1255U 1.2 ГГц,496650.0
+ Dell Vostro 5510,Dell,256,SSD,8,15.6,Core i5-11320H 3.2 ГГц,496900.0
+ HP Envy 13-ba1046ur,HP,512,SSD,8,13.3,Core-i5-1135G7 2.4 ГГц,498000.0
+ Lenovo ThinkBook 16 Gen 6,Lenovo,256,SSD,8,16.0,Core i5-1335U 1.3 ГГц,498463.0
+ Lenovo ThinkBook 14 Gen 6,Lenovo,256,SSD,8,14.0,Core i5-1335U 1.3 ГГц,499000.0
+ HP Europe Probook 440 G9,HP,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,499200.0
+ HP 250 G8,HP,512,SSD,16,15.6,Core i7-1165G7 2.3 ГГц,499300.0
+ Lenovo 20YG005JRT,Lenovo,256,SSD,8,15.6,Ryzen 5 5500U,499900.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,500115.0
+ Lenovo IdeaPad 15ACH6,Lenovo,512,SSD,8,15.6,Ryzen 5-5600H 3.3 ГГц,502900.0
+ Lenovo LOQ 15IRH8,Lenovo,512,SSD,16,15.6,Core i5-12450H 2.0 ГГц,503748.0
+ HP ProBook 450 G9,HP,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,503990.0
+ Dell Latitude 3510,Dell,256,SSD,8,15.6,Core i3 -10110U 1.6 ГГц,504300.0
+ Dell Inspiron 5401,Dell,512,SSD,8,14.0,Core i5-1035G1 - 1.0 ГГц,504300.0
+ Lenovo Yoga Pro 7 Gen 8,Lenovo,512,SSD,16,14.5,Ryzen 5-7535HS 3.3 ГГц,505892.0
+ Lenovo ThinkBook 15 Gеn 2   ,Lenovo,256,SSD,8,15.6,Core i3-1115G4 2.4 ГГц,505900.0
+ Lenovo ThinkBook 15 Gen 2 ,Lenovo,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,505900.0
+ Asus Vivobook S 14 M3402RA,Asus,512,SSD,16,14.0,Ryzen 7-6800H 3.2 ГГц,506792.0
+ Dell Vostro 3510,Dell,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,506900.0
+ HP ProBook 440 G9,HP,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,508200.0
+ Lenovo ThinkPad E15 Gen 4,Lenovo,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,510160.0
+ Asus Vivobook S 16X M5602QA,Asus,512,SSD,16,16.0,Ryzen 5-5600H 3.3 ГГц,511001.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,511400.0
+ HP ProBook 440 G8,HP,512,SSD,8,14.0,Core i7-1165G7 2.8 ГГц,512200.0
+ HP Victus 16-e1050ci,HP,512,SSD,8,16.1,Ryzen 5 6600H 3.3 ГГц,512900.0
+ Realme Book RMNB1002gray,Realme,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,513100.0
+ Realme Book RMNB1002blue,Realme,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,513100.0
+ HP ProBook 440 G9,HP,512,SSD,16,14.0,Core i7-1255U 1.7 ГГц,513300.0
+ HP ProBook 440 G8 ,HP,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,513400.0
+ HP EliteBook 850 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,513975.0
+ Dell Vostro 5510,Dell,512,SSD,8,15.6,Core i5-11320H 3.2 ГГц,514400.0
+ Gigabyte G5 MF-E2KZ333SD,Gigabyte,512,SSD,8,15.6,Core i5-12500H 2.5 ГГц,514490.0
+ HP Victus 15-fa0034ci,HP,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,514490.0
+ MSI Modern 14,MSI,512,SSD,8,14.0,Core i5 1135G7 2.4 ГГц,516100.0
+ HP ProBook 450 G9,HP,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,516300.0
+ HP Pavilion Aero 13-be1025ci,HP,512,SSD,16,13.3,Ryzen 5 5625U 2.3 ГГц,516400.0
+ Asus Vivobook S 15 K5504VA-MA086W,Asus,512,SSD,16,15.6,Core i5-13500H 2.6 ГГц,516812.0
+ Dell Vostro 3500,Dell,256,SSD,8,15.6,Core i5 1135G7 2.4 ГГц,517300.0
+ Dell Vostro 5625,Dell,256,SSD,8,16.0,Ryzen 5-5625U 2.3 ГГц,517530.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,256,SSD,8,14.0,Ryzen 5 PRO 6650U 2.9 ГГц,518055.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,518700.0
+ Dell Latitude 3510,Dell,256,SSD,8,15.6,Core i5 10210U 1.6 ГГц,518700.0
+ HP Victus 15-fa0064ci,HP,512,SSD,16,15.6,Core i5-12450H 2.0 ГГц,518815.0
+ HP 250 G9,HP,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,519750.0
+ Dell Latitude 3420,Dell,256,SSD,8,14.0,Core i5 1135G7,520000.0
+ HP ProBook 450 G9,HP,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,520200.0
+ HP Victus 15-fb0026ci,HP,512,SSD,4,15.6,Ryzen 5-5600H 3.3 ГГц,520695.0
+ Lenovo IdeaPad 5 14IIL05,Lenovo,512,SSD,8,14.0,Core i7 1065G7 1.3 ГГц,521200.0
+ HP 470 G8,HP,256,SSD,8,17.3,Core i5-1135G7 2.4 ГГц,521800.0
+ Asus Vivobook Pro 16 K6602ZC,Asus,512,SSD,16,16.0,Core i5-12500H 2.5 ГГц,522397.0
+ Dell Latitude 3510,Dell,256,SSD,8,15.6,Core i3 10110U 2.1 ГГц,522400.0
+ HP 15-eu0022ur ENVYx360,HP,512,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,522500.0
+ HP 15-eu0020ur,HP,512,SSD,8,15.6,6,522500.0
+ Asus Vivobook Pro 15 M6500QC,Asus,1024,SSD,16,15.6,Ryzen 7-5800H 3.2 ГГц,524134.0
+ Asus Vivobook 16X K3605VC,Asus,512,SSD,16,16.0,Core i5-13500H 2.6 ГГц,524237.0
+ Asus Vivobook S 15 M3502QA,Asus,1024,SSD,16,15.6,Ryzen 7-5800HS 2.8 ГГц,524275.0
+ Dell Latitude 3520,Dell,256,SSD,8,15.6,Core i3-1115G4 3.0 ГГц,524500.0
+ HP Probook 430 G8 ,HP,256,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,524600.0
+ HP Victus 16-e0132ur,HP,512,SSD,8,16.1,Ryzen 5-5600H 3.3 ГГц,524990.0
+ HP Victus 16-e0126ur,HP,512,SSD,8,16.1,Ryzen 5-5600H 3.3 ГГц,524990.0
+ HP Victus 15-fb0022ci,HP,512,SSD,8,15.6,Ryzen 5-5600H 3.3 ГГц,524990.0
+ HP Victus 15-fa0035ci,HP,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,524990.0
+ HP Victus 15-fa0020ci,HP,512,SSD,8,15.6,Core i5-12500H 2.5 ГГц,524990.0
+ HP ProBook 450 G9,HP,256,SSD,8,15.6,Core i3-1215U 4.4 ГГц,525300.0
+ Dell Vostro 3520,Dell,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,525786.0
+ HP ProBook 450 G8,HP,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,525810.0
+ HP ProBook 440 G9,HP,512,SSD,8,14.0,Core i7-1255U 4.7 ГГц,527100.0
+ Lenovo ThinkPad L14 Gen 3,Lenovo,512,SSD,8,14.0,Ryzen 5-5675U 2.3 ГГц,527700.0
+ HP ProBook 440 G9,HP,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,528413.0
+ Asus TUF Gaming F15 FX506HE,Asus,512,SSD,16,15.6,Core i5-11400H 2.7 ГГц,528424.0
+ Asus Vivobook S K3402ZA,Asus,512,SSD,8,14.0,Core i5-12500H 2.5 ГГц,528468.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,529000.0
+ HP ProBook 450 G8,HP,256,SSD,8,15.6,Core i5-1135G7 4.2 Ггц,529700.0
+  Lenovo ThinkPad E14 ,Lenovo,256,HDD,8,14.0,Intel Core i5 10210U,530400.0
+ HP 250 G10,HP,512,SSD,16,15.6,Core i7-1355U 1.7 ГГц,531300.0
+ Asus Vivobook Pro 15 M6500RC,Asus,1024,SSD,16,15.6,Ryzen 7-6800H 3.2 ГГц,531648.0
+ Dell Vostro 5515,Dell,256,SSD,8,15.6,Ryzen 5-5500U 2.1 ГГц,533000.0
+ Dell Vostro 5625,Dell,512,SSD,8,16.0,Ryzen 5-5625U 2.3 ГГц,533460.0
+ HP ProBook x360 435 G8,HP,256,SSD,8,13.3,Ryzen 3-5400U 2.6 ГГц,533900.0
+ HP ProBook 440 G9,HP,512,SSD,16,14.0,Core i5-1235U 1.3 ГГц,534188.0
+ Dell Latitude 3520,Dell,256,SSD,8,15.6,Core i5-1145G7 2.6 ГГц,534700.0
+ Dell Vostro 3500,Dell,512,SSD,8,15.6,Core i5 1135G7 2.4 ГГц,535600.0
+ Lenovo ThinkBook 15 Gen 4,Lenovo,512,SSD,16,15.6,Core i7-1255U 1.2 ГГц,536200.0
+ Lenovo ThinkBook 16 Gen 6,Lenovo,512,SSD,16,16.0,Core i5-1335U 1.3 ГГц,537000.0
+ HP Envy x360 15-es1003ur,HP,512,SSD,8,15.6,Core i5-1155G7 2.5 ГГц,537600.0
+ Lenovo Legion 5i 15IMH05,Lenovo,512,SSD,8,15.6,Core i5-10300H 2.5 ГГц,538100.0
+ Dell Latitude 3520,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,538200.0
+ HP Europe 470 G7,HP,1000,HDD,8,17.3,Core i7-10510U 1.8 ГГц,538200.0
+ HP ProBook 430 G8,HP,256,SSD,8,13.3,Core i7-1165G7 2.8 ГГц,538500.0
+ HP 470 G9,HP,512,SSD,8,17.3,Core i7-1255U 1.7 ГГц,539963.0
+ Asus ExpertBook B1 B1502CVA-BQ0347X,Asus,512,SSD,16,15.6,Core i7-1355U 1.8 ГГц,541420.0
+ Asus ExpertBook B1 B1402CVA-EB0427X,Asus,512,SSD,16,14.0,Core i7-1355U 1.8 ГГц,541420.0
+ Dell Vostro 5510,Dell,512,SSD,8,15.6,Core i5-11320H 3.2 ГГц,542900.0
+ Lenovo ThinkBook 14 Gen 6,Lenovo,512,SSD,16,14.0,Core i5-1335U 1.3 ГГц,543138.0
+ Dell Latitude 3520,Dell,256,SSD,8,15.6,Core i5-1145G7 2.6 ГГц,543400.0
+ Dell Inspiron 5501,Dell,256,SSD,8,15.0,"Core i5-1035G1 - 1,0 ГГц",543600.0
+ HP ProBook x360 435 G8,HP,512,SSD,16,13.3,Ryzen 5-5600U 2.3 ГГц,544300.0
+ Asus ExpertBook B5 Flip B5302FBA-LG0237X,Asus,512,SSD,8,13.3,Core i5-1235U 1.3 ГГц,545638.0
+ HP Victus 16-e1065ci,HP,512,SSD,8,16.1,Ryzen 5-6600H 3.3 ГГц,545990.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,546500.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,547900.0
+ Asus Vivobook S 16X M5602QA,Asus,1024,SSD,16,16.0,Ryzen 7-5800H 3.2 ГГц,548228.0
+ Dell Vostro 3510,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,548500.0
+  Lenovo ThinkBook S-13-IML ,Lenovo,512,SSD,8,13.0,Intel Core i5-10210U,548700.0
+ HP ProBook 440 G9,HP,512,SSD,8,14.0,Core i5-1235U 4.4 ГГц,549500.0
+ Lenovo Thinkpad T14,Lenovo,256,SSD,8,14.0,Ryzen 5 PRO-5650U 2.3 ГГц,549800.0
+ MSI Modern 14 B5M-201XKZ,MSI,512,SSD,16,14.0,Ryzen 5-5500U 2.1 ГГц,550100.0
+ Lenovo ThinkBook 14 Gen 4+,Lenovo,256,SSD,8,14.0,Core i5-1235U 0.9 ГГц,551800.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,551900.0
+ MSI GF66 Katana 11UE-228XKZ,MSI,512,SSD,16,15.6,Core i5-11400H 2.7 ГГц,554774.0
+ Dell Vostro 3510,Dell,512,SSD,16,15.6,Core i5-1135G7 2.4 ГГц,555800.0
+ Dell Latitude 5520,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,555900.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i7-1255U 1.7 ГГц,556373.0
+ HP Pavilion x360 15-er1008ci,HP,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,556490.0
+ HP Victus 16-e1056ci,HP,512,SSD,8,16.1,Ryzen 5-6600H 3.3 ГГц,556490.0
+ HP Victus 16-e1052ci,HP,512,SSD,8,16.1,Ryzen 5-6600H 3.3 ГГц,556490.0
+ HP Victus 16-e1051ci,HP,512,SSD,8,16.1,Ryzen 5-6600H 3.3 ГГц,556490.0
+ Acer Nitro 5 AN515-58,Acer,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,557770.0
+ MSI Bravo 15 B5DD,MSI,512,SSD,8,15.6,Ryzen 5-5600H 3.3 ГГц,559846.0
+ HP ProBook 450 G9,HP,1024,SSD,16,15.6,Core i7-1260P 2.1 ГГц,560175.0
+ Lenovo ThinkBook 14 G4 IAP,Lenovo,512,SSD,16,14.0,Core i5-1235U 3.2 ГГц,560513.0
+ Lenovo ThinkPad E14 Gen 4,Lenovo,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,561500.0
+ HP ENVY x360 15-es0006ur,HP,512,SSD,8,15.6,Core i5 1135G7,561700.0
+ Dell G3,Dell,256,SSD,8,15.6,Core i5-10300H 2.5 ГГц,561700.0
+ HP Envy x360 13-ay0040ur,HP,512,SSD,8,13.3,Ryzen 3-4300U 2.7 ГГц,561700.0
+ Asus Vivobook Pro 15 K6502ZC,Asus,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,561716.0
+ HP Victus 15-fa0044ci,HP,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,561740.0
+ HP Europe Probook 440 G9,HP,512,SSD,8,14.0,Core i7-1255U 1.7 ГГц,561808.0
+ Dell Vostro 3510,Dell,512,SSD,16,15.6,Core i5-1135G7 2.4 ГГц,561995.0
+ Dell G15 5511,Dell,512,SSD,16,15.6,Core i5-11260H 2.6 ГГц,562916.0
+ HP ProBook 450 G9,HP,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,563063.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i7-1255U 3.5 ГГц,563063.0
+ HP EliteBook 840 G8,HP,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,563200.0
+ GIGABYTE G5 GD-51RU123/121SD,Gigabyte,512,SSD,16,15.6,11400H,563800.0
+ Apple MacBook Air A2337 MGN63,Apple,256,SSD,8,13.3,M1-7-Core 3.2 ГГц,563880.0
+ Apple MacBook Air A2337 MGN93,Apple,256,SSD,8,13.3,M1 3.2ГГц,563908.0
+ HP ProBook 440 G8,HP,512,SSD,16,14.0,Core i5-1135G7 2.4 ГГц,565400.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,566300.0
+ Acer Nitro 5 AN515-57,Acer,256,SSD,8,15.6,Core i5-11400H 2.7 ГГц,566344.0
+ Lenovo Legion 5 15IMH6,Lenovo,256,SSD,16,15.6,Core i5-10300H 2.5 ГГц,566900.0
+ Gigabyte G5 KF-E3KZ313SD,Gigabyte,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,566990.0
+ Dell Vostro 3510,Dell,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,567500.0
+ Lenovo Thinkbook 13s G2 ITL,Lenovo,256,SSD,8,13.3,Core i5-1135G7 2.4ГГц,567500.0
+ HP EliteBook 840 G9,HP,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,567606.0
+ HP ProBook 450 G8,HP,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,567700.0
+ Lenovo ThinkPad E15 Gen 4,Lenovo,512,SSD,16,15.6,Ryzen 7-5825U 2.0 ГГц,568400.0
+ Lenovo ThinkPad E14 Gen 4,Lenovo,512,SSD,8,14.0,Ryzen 5-5625U 2.3 ГГц,568400.0
+ Lenovo LOQ 15IRX9,Lenovo,1024,SSD,16,15.6,Core i5-13450HX 2.4 ГГц,569179.0
+ Dell Vostro 5510,Dell,512,SSD,8,15.6,Core i5-11300H 3.1 ГГц,569300.0
+ Asus TUF Dash F15 FX516PC-HN003,Asus,512,SSD,16,15.6,Core i5-11300H 3.1 ГГц,570539.0
+ HP ProBook 450 G8,HP,512,SSD,16,15.6,Core i5-1135G7 2.4 ГГц,570700.0
+ Asus Vivobook Pro 15 K6502ZC,Asus,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,570716.0
+ Lenovo Yoga 7 Gen 8,Lenovo,512,SSD,16,14.0,Core i5-1340P 1.9 ГГц,570857.0
+ HP Elitebook 630 G10,HP,512,SSD,8,13.3,Core i5-1335U 1.3 ГГц,571725.0
+ Lenovo ThinkPad E14 Gen 5,Lenovo,512,SSD,16,14.0,Core i5-1335U 1.3 ГГц,571760.0
+ Dream Machines RG3050Ti-15KZ20,Dream Machines,500,SSD,16,15.6,Core i5-11400H 2.7 ГГц,571900.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,512,SSD,16,15.6,Core i5-1135G7 2.4 ГГц,571900.0
+ MSI GF66 Katana,MSI,512,SSD,8,15.6,Core i5-11400H 2.7 ГГц,572028.0
+ HP Envy 14-eb0003ur,HP,512,SSD,8,14.0,Core i5-1135G7 2.4ГГц,573500.0
+ Asus Vivobook S 14 M3402RA,Asus,1024,SSD,16,14.0,Ryzen 7-6800H 3.2 ГГц,573764.0
+ Lenovo ThinkPad L14 Gen 3,Lenovo,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,574375.0
+ Dell Vostro 5620,Dell,256,SSD,8,16.0,Core i5-1240P 1.7 ГГц,575080.0
+ Lenovo ThinkBook 14 Gen 2 ITL,Lenovo,256,SSD,8,14.0,Core i5 1135G7 2.4 ГГц,575700.0
+ MSI GF63 Thin 10SC,MSI,512,SSD,8,15.6,Core i7 10750H 2.6 ГГц,576100.0
+ HP ProBook 430 G8,HP,256,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,577000.0
+ HP Victus 15-fa0001ur,HP,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,577395.0
+ HP Victus 16-d1059ci,HP,512,SSD,16,16.1,Core i5-12500H 2.5 ГГц,577395.0
+ HP Victus 15-fa0032ci,HP,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,577490.0
+ HP Omen 16-wd0009ci,HP,512,SSD,16,16.1,Core i5-13420H 2.1 ГГц,577490.0
+ HP Victus 16-e1048ci,HP,512,SSD,8,16.1,Ryzen 7-6800H 3.2 ГГц,577490.0
+ HP Pavilion Plus Laptop 14-eh0002ci,HP,512,SSD,16,14.0,Core i5-1235U 1.3 ГГц,577490.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i7-1255U 1.2 ГГц,577490.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i7-1255U 1.7 ГГц,577500.0
+ HP EliteBook 850 G8,HP,512,SSD,16,15.6,Core i5-1135G7 2.4 ГГц,579100.0
+ HP Probook 430 G8 27H93EA,HP,256,SSD,8,13.3,Core™ i5-1135G7,581300.0
+ HP Victus 16-e0080ur,HP,512,SSD,8,16.1,Ryzen 5-5600H 3.3 ГГц,581595.0
+ Dell Latitude 3510,Dell,512,SSD,8,15.6,Core i5 10310U 1.7 ГГц,582700.0
+ Dream Machines RG3050Ti-15KZ40,Dream Machines,500,SSD,8,15.6,Core i5-11400H 2.7 ГГц,582900.0
+ Dell Latitude 5430,Dell,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,583400.0
+ HP Pavilion Aero Laptop 13-be1021ci,HP,512,SSD,16,13.3,Ryzen 7-5825U 2.0 ГГц,583400.0
+ Asus Vivobook Pro 15 M6500QC-MA035,Asus,512,SSD,16,15.6,Ryzen 7-5800H 3.2 ГГц,584216.0
+ Lenovo ThinkBook 15 Gen 4,Lenovo,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,585200.0
+ MSI Modern 14 B10RASW,MSI,512,SSD,8,14.0,Core i5 10210U 1.6 ГГц,585400.0
+ Lenovo 21A4002ARU,Lenovo,512,SSD,8,15.6,Ryzen 5 5500U,585600.0
+ HP ProBook 440 G8,HP,256,SSD,8,14.0,Core i7-1165G7 2.8 ГГц,586100.0
+ HP Probook 440 G8 2R9E4EA,HP,256,SSD,8,14.0,i5-1135G7,586500.0
+ Apple MacBook Air A2337 MGND3,Apple,256,SSD,8,13.3,M1 3.2ГГц,586560.0
+ Asus TUF Gaming F15 FX506HCB,Asus,512,SSD,8,15.6,Core i5-11400H 2.7 ГГц,587011.0
+ Lenovo ThinkBook 15 G4 IAP,Lenovo,512,SSD,16,15.6,Core i5-1235U 3.2 ГГц,587499.0
+ Lenovo ThinkBook 13s G2 ,Lenovo,512,SSD,8,13.3,CORE_I5-1135G7,587800.0
+ HP Victus 16-e1067ci,HP,512,SSD,16,16.1,Ryzen 5-6600H 3.3 ГГц,587895.0
+ HP 470 G8,HP,512,SSD,16,17.3,Core i7-1165G7 2.8 ГГц,588100.0
+ MSI Alpha 15 B5EEK-089XKZ,MSI,512,SSD,16,15.6,Ryzen 7-5800H 3.2 ГГц,588167.0
+ HP Pavilion Gaming 15-cx0113ur,HP,1000,HDD,8,15.6,Core i5 8300H 2.3 ГГц,588300.0
+ Lenovo 82HS00NDRK,Lenovo,512,SSD,8,14.0,Core i7 1165G7,588400.0
+ Dell Vostro 5630,Dell,512,SSD,16,16.0,Core i5-1340P 1.9 ГГц,588490.0
+ Lenovo ThinkPad E15 Gen 4,Lenovo,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,589200.0
+ Lenovo Thinkbook 15 G2 ITL,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,591600.0
+ Lenovo ThinkBook 14 Gen 6,Lenovo,256,SSD,8,14.0,Core i5-1335U 1.3 ГГц,593050.0
+ Asus VivoBook Pro 15 K6500ZC,Asus,512,SSD,16,15.6,Core i5-12450H 2.0 ГГц,593054.0
+ Dell Vostro 3500,Dell,512,SSD,8,15.6,Core i7 1165G7 2.8 ГГц,593100.0
+ Dell Vostro 3520,Dell,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,593900.0
+ Lenovo ThinkPad P50 512 SSD,Lenovo,256,SSD,16,15.0,Core i7-6820HQ - 2.7 ГГц,593900.0
+ Lenovo IdeaPad Gaming 3 Gen 7,Lenovo,1024,SSD,16,15.6,Core i7-12650H 2.3 ГГц,593964.0
+ Lenovo ThinkBook 16 Gen 6,Lenovo,256,SSD,8,16.0,Core i5-1335U 1.3 ГГц,594050.0
+ Acer Nitro 5 AN515-57,Acer,512,SSD,8,15.6,Core i7-11800H 2.3 ГГц,594328.0
+ Lenovo ThinkPad L14 Gen 1,Lenovo,256,SSD,8,14.0,Ryzen 5-4500U 2.3 ГГц,594400.0
+ Dell Vostro 5620,Dell,512,SSD,8,16.0,Core i5-1240P 1.7 ГГц,594500.0
+ HP Victus 16-e1049ci,HP,512,SSD,16,16.1,Ryzen 5-6600H 3.3 ГГц,595245.0
+ HP ProBook 430 G8,HP,512,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,595600.0
+ HP ProBook 450 G9,HP,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,597700.0
+ HP Victus 16-e0008ur,HP,512,SSD,16,16.1,Ryzen 5-5600H 3.3 ГГц,598395.0
+ Dell Latitude 3540,Dell,256,SSD,8,15.6,Core i5-1335U 1.3 ГГц,598410.0
+ Dell Vostro 5620,Dell,512,SSD,16,16.0,Core i5-1240P 1.7 ГГц,600328.0
+ Lenovo LOQ 15IRX9,Lenovo,1024,SSD,16,15.6,Core i7-13650HX 3.6 ГГц,600406.0
+ Lenovo ThinkPad L14 Gen 3,Lenovo,512,SSD,16,14.0,Ryzen 7-5875U,600500.0
+ HP ProBook 440 G9,HP,512,SSD,8,14.0,Core i7-1255U 1.7 ГГц,600600.0
+ HP EliteBook 840 G8 ,HP,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,600600.0
+ HP EliteBook 830 G8,HP,256,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,600600.0
+ HP Envy 14-eb0003ur,HP,512,SSD,8,14.0,Core i5-1135G7 2.4ГГц,600900.0
+ HP ProBook x360 435 G8,HP,256,SSD,8,13.3,Ryzen 5-5600U 2.3 ГГц,602500.0
+ Acer Nitro 5 AN515-46,Acer,512,SSD,16,15.6,Ryzen 5-6600H 3.3 ГГц,602998.0
+ HP 470 G9,HP,512,SSD,16,17.3,Core i7-1255U 1.7 ГГц,603488.0
+ Dell Latitude 5520,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,603800.0
+ Lenovo ThinkBook 15 Gen 2,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,604900.0
+ Lenovo IdeaPad 15ACH6,Lenovo,512,SSD,16,15.6,Ryzen 5-5600H 3.3 ГГц,606700.0
+ HP ProBook 450 G9,HP,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,609263.0
+ HP EliteBook 860 G9,HP,512,SSD,16,16.0,Core i5-1235U 1.3 ГГц,609263.0
+ MSI GF63 Thin 11UC-1026XKZ,MSI,512,SSD,16,15.6,Core i5-11400H 2.2 ГГц,610200.0
+ Dell Vostro 5625,Dell,256,SSD,8,16.0,Ryzen 5-5625U 2.3 ГГц,611609.0
+ Acer Predator Helios 300 PH315-54-5009,Acer,512,SSD,8,15.6,Core i5-11400H 2.7 ГГц,612000.0
+ Acer Nitro 5 AN515-45-R7SL,Acer,512,SSD,8,15.6,Ryzen 7-5800H 3.2 ГГц,612000.0
+ Lenovo ThinkPad L15 Gen 3,Lenovo,512,SSD,16,15.6,Ryzen 7 Pro-5875U 2.0 ГГц,612000.0
+ HP ProBook 440 G9,HP,512,SSD,16,14.0,Core i7-1255U 1.7 ГГц,612150.0
+ Lenovo IdeaPad Gaming 3 Gen 7,Lenovo,1024,SSD,16,16.0,Ryzen 7-6800H 3.2 ГГц,612499.0
+ Dell Inspiron G5 SE-5505,Dell,256,SSD,8,15.6,Ryzen 5-4600H 3.0 ГГц,612561.0
+ Dell Vostro 5510,Dell,512,SSD,8,15.6,Core i5-11300H 3.1 ГГц,614000.0
+ Dell Inspiron 5401,Dell,512,SSD,8,14.0,Core i5-1035G1 - 1.0 ГГц,614100.0
+ Asus VivoBook Pro 15 K6500ZC-MA359,Asus,512,SSD,16,15.6,Core i5-12500H 2.5 ГГц,614314.0
+ HP EliteBook 850 G8,HP,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,615038.0
+ MSI Modern 14,MSI,512,SSD,8,14.0,Core i5 1135G7 2.4 ГГц,615500.0
+ Lenovo ThinkBook 14 Gen 2,Lenovo,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,615900.0
+ Asus ExpertBook B5 B5302CBA-EG0099X,Asus,1024,SSD,16,13.3,Core i7-1255U 1.7 ГГц,615910.0
+ Lenovo IdeaPad Gaming 3 15ACH6,Lenovo,512,SSD,16,15.6,Ryzen 5-5600H 3.3 ГГц,617100.0
+ Dell 210-AXVQ N014L552015EMEA_UBU,Dell,512,SSD,8,15.6,Core i5 1145G7,618800.0
+ HP Victus 15-fa0029ci,HP,512,SSD,16,15.6,Core i7-12700H 2.3 ГГц,619490.0
+ Lenovo ThinkPad E16 Gen 1,Lenovo,512,SSD,16,16.0,Core i7-1355U 1.7 ГГц,619625.0
+ MSI Modern B11MOU-886XKZ,MSI,512,SSD,16,14.0,Core i5-1155G7 2.5 ГГц,620400.0
+ Lenovo ThinkBook 16 Gen 6,Lenovo,512,SSD,16,16.0,Core i5-1335U 1.3 ГГц,621750.0
+ Dell Vostro 5620,Dell,256,SSD,8,16.0,Core i5-1240P 1.7 ГГц,621770.0
+ Lenovo ThinkBook 15-IIL,Lenovo,512,SSD,16,15.6,Core i5 1035G4 1.1 ГГц,621900.0
+ Lenovo ThinkBook 16 G4+,Lenovo,512,SSD,16,16.0,Core i5-12500H 2.5 ГГц,622125.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,512,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,622400.0
+ Lenovo ThinkBook 14 Gen 6,Lenovo,512,SSD,16,14.0,Core i5-1335U 1.3 ГГц,623125.0
+ Asus TUF Gaming A15 FA507NU,Asus,512,SSD,16,15.6,Ryzen 7-7735HS 3.2 ГГц,623482.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,512,SSD,8,14.0,Ryzen 5 PRO 6650U 2.9 ГГц,624999.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i7-1255U 1.2 ГГц,625700.0
+ Lenovo IdeaPad Gaming 3 15ACH6,Lenovo,512,SSD,16,15.6,Ryzen 5-5600H 3.3 ГГц,625800.0
+ Lenovo IdeaPad Gaming 3 Gen 7,Lenovo,1024,SSD,16,16.0,Core i7-12650H 1.7 ГГц,626486.0
+ HP EliteBook 830 G9 ,HP,256,SSD,8,13.3,Core i5-1245U 1.6 ГГц,626800.0
+ Lenovo ThinkBook 15 Gen 4,Lenovo,1024,SSD,16,15.6,Core i7-1255U 1.2 ГГц,626800.0
+ Gigabyte G5 GD,Gigabyte,512,SSD,16,15.6,Core i5-11400H 2.7 ГГц,626800.0
+ Dell G3 3590,Dell,512,SSD,8,15.6,Core i5-9300H 2.4 ГГц,627000.0
+ Acer Nitro 5 AN515-46-R7XU,Acer,512,SSD,16,15.6,Ryzen 5-6600H 3.3 ГГц,627308.0
+ MSI Bravo 15 B5DD-268XKZ,MSI,512,SSD,16,15.6,Ryzen 7-5800H 3.2 ГГц,628100.0
+ Lenovo ThinkBook 14 G2 ITL,Lenovo,512,SSD,8,14.0,Core i5-1135G7 2.4 Ггц,628600.0
+ HP EliteBook 830 G8,HP,256,SSD,16,13.3,Core i5-1135G7 2.4 ГГц,628700.0
+ Dell Vostro 5625,Dell,512,SSD,16,16.0,Ryzen 7-5825U 2.0 ГГц,629130.0
+ HP Gaming Pavilion 15-ec2084ur,HP,512,SSD,16,15.6,Ryzen 5-5600H 3.3 ГГц,629990.0
+ HP Victus 16-e0139ur,HP,512,SSD,8,16.1,Ryzen 5-5600H 3.3 ГГц,629990.0
+ HP Victus 15-fa0027ci,HP,512,SSD,16,15.6,Core i7-12700H 2.3 ГГц,629990.0
+ Asus Vivobook S 16X S5602ZA,Asus,512,SSD,16,16.0,Core i5-12500H 2.5 ГГц,630799.0
+ Dell Vostro 5630,Dell,512,SSD,16,16.0,Core i7-1360P 2.2 ГГц,633730.0
+ HP ProBook 450 G9,HP,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,634585.0
+ Acer Nitro 5 AN517-54,Acer,256,SSD,8,17.3,Core i5-11400H 2.7 ГГц,634818.0
+ Lenovo LOQ 15IRX9,Lenovo,1024,SSD,16,15.6,Core i5-13450HX 2.4 ГГц,635420.0
+ HP ProBook 450 G9,HP,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,635800.0
+ Asus Vivobook S 16 Flip TP3604VA,Asus,512,SSD,16,16.0,Core i5-13500H 2.6 ГГц,636635.0
+ Lenovo Thinkpad T14 Gen1,Lenovo,256,SSD,8,14.0,Ryzen 5 PRO-4650U 2.1 ГГц,637500.0
+ Lenovo ThinkPad P52,Lenovo,500,SSD,16,15.6,Core i7-8850H 2.6 ГГц,637900.0
+ Dell Latitude 3520,Dell,512,SSD,8,15.6,Core i5-1145G7 2.6 ГГц,637900.0
+ HP ProBook 440 G9,HP,512,SSD,8,14.0,Core i7-1255U 4.7 ГГц,638000.0
+ Lenovo LOQ 15APH8,Lenovo,512,SSD,16,15.6,Ryzen 5-7640HS 4.3 ГГц,638664.0
+ Dell Latitude 5520,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,639058.0
+ Lenovo IdeaPad 5 Pro 16IHU6,Lenovo,512,SSD,8,16.0,Core i5-11300H 3.1 ГГц,640000.0
+ MSI GF63 Thin 10SC 512 GB,MSI,512,SSD,8,15.6,Core i7 10750H 2600 МГц,640000.0
+  Lenovo Yoga 920-13IKB 13.9'' FHD,Lenovo,256,SSD,8,13.9,Intel Core i5 8250U,640000.0
+ MSI GF63 Thin 10SC,MSI,512,SSD,8,15.6,Core i5 10300H 2.5 ГГц,644100.0
+ MSI Katana GF76 12UE,MSI,512,SSD,16,17.3,Core i7-12700H 2.3 ГГц,644389.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,644444.0
+ MSI Bravo 15 B5DD,MSI,512,SSD,16,15.6,Ryzen 7-5800H 3.2 ГГц,644617.0
+ HP ProBook 440 G8,HP,512,SSD,16,14.0,Core i7-1165G7 2.8 ГГц,645200.0
+ HP Probook 470 G5 2XY85EA#ACB,HP,1000,HDD+SSD,8,17.3,Core i5 8250U 1.6 ГГц,645200.0
+ HP EliteBook 850 G8,HP,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,645600.0
+ Lenovo IdeaPad Gaming 3 15ACH6,Lenovo,512,SSD,16,15.6,Ryzen 5- 5600H 3.3 ГГц,646100.0
+ Dell Latitude 3510,Dell,512,SSD,8,15.6,Core i5-10310U 1.7 ГГц,647800.0
+ HP Envy 13-ba1046ur,HP,512,SSD,8,13.3,Core-i5-1135G7 2.4 ГГц,648900.0
+ HP 470 G8,HP,1024,SSD,16,17.3,Core i5-1135G7 2.4 ГГц,648900.0
+ HP ProBook 450 G10,HP,1024,SSD,16,15.6,Core i7-1355U 1.7 ГГц,649688.0
+ Dell Latitude 3540,Dell,512,SSD,16,15.6,Core i5-1335U 1.3 ГГц,649830.0
+ HP EliteBook 850 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,649900.0
+ Lenovo ThinkPad L14 Gen 3,Lenovo,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,649925.0
+ HP EliteBook 840 G9,HP,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,650700.0
+ HP Victus 16-e0044ur,HP,512,SSD,16,16.1,Ryzen 5-5600H 3.3 ГГц,650990.0
+ HP Victus 16-e0111ur,HP,512,SSD,16,16.1,Ryzen 5 5600H 3.3 ГГц,650990.0
+ Acer Nitro 5 AN517-54,Acer,512,SSD,8,17.3,Core i5-11400H 2.7 ГГц,651160.0
+ MSI GF63 Thin 11UD-1029XKZ,MSI,512,SSD,8,15.6,Core i5-11400H 2.2 ГГц,651600.0
+ Lenovo ThinkPad E14 Gen 4,Lenovo,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,652500.0
+ Dell Inspiron 5501,Dell,1000,HDD,12,15.0,"Core i7-1065G7 - 1,3 ГГц",653200.0
+ Lenovo ThinkPad L490,Lenovo,256,SSD,8,14.0,Core i5 8265U 1.6 ГГц,653200.0
+ HP EliteBook 860 G9,HP,512,SSD,8,16.0,Core i5-1235U 1.3 ГГц,653427.0
+ Asus ExpertBook B5 B5402CBA,Asus,512,SSD,8,14.0,Core i5-1240P 1.7 ГГц,653740.0
+ Dell Vostro 5390,Dell,256,SSD,8,13.3,Core i7 8565U 1.8 ГГц,654800.0
+ HP ZBook 17 G5,HP,512,SSD,32,15.0,"Core i7-8850H 2,6 ГГц",654900.0
+ Asus TUF Gaming F15 FX506HCB,Asus,512,SSD,16,15.6,Core i5-11400H 2.7 ГГц,654986.0
+ Asus Vivobook Pro 15 M6500XU-LP078,Asus,1024,SSD,16,15.6,Ryzen 9-7940HS 4.0 ГГц,655206.0
+ Asus TUF Dash F15 FX517ZE,Asus,512,SSD,16,15.6,Core i5-12450H 2.0 ГГц,655278.0
+ Lenovo LOQ 15IRH8,Lenovo,512,SSD,16,15.6,Core i7-13620H 2.4 ГГц,655596.0
+ Dell Latitude 3510,Dell,256,SSD,8,15.6,Core i7 10510U 1.8 ГГц,655900.0
+ Gigabyte 9RC45KC0MCE1U1RU501,Gigabyte,512,SSD,16,15.6,10500H,657700.0
+ MSI GF65 Thin 10SDR,MSI,512,SSD,8,15.6,Core i5 10300H 2.5 ГГц,660000.0
+ MSI Katana GF66 11UD,MSI,512,SSD,16,15.6,Core i5-11400H 2.7 ГГц,660490.0
+ MSI Stealth 17M A12UE,MSI,1024,SSD,16,17.3,Core i7-1280P 1.8 ГГц,660589.0
+ Acer NX.C5WER.003,Acer,512,SSD,16,15.0,Core i7 10750H,660600.0
+ Dell G3-3579 210-AOVS_51,Dell,1000,HDD+SSD,8,15.6,Core i5 8300H 2.3 ГГц,661100.0
+ HP 470 G9,HP,512,SSD,16,17.3,Core i7-1255U 1.7 ГГц,661238.0
+ HP ProBook 450 G8,HP,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,662400.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,256,SSD,8,15.6,Core i5-1235U 1.3 ГГц,662499.0
+ Lenovo LOQ 15APH8,Lenovo,512,SSD,16,15.6,Ryzen 7-7840HS 3.8 ГГц,663275.0
+ MSI Katana GF66 11UC,MSI,512,SSD,8,15.6,Core i7-11800H 2.3 ГГц,663986.0
+ Asus VivoBook X571LH,Asus,512,SSD,16,15.6,Core i7-10870H 2.2 ГГц,665290.0
+ HP Omen 16-c0042ur,HP,1024,SSD,16,16.1,Ryzen 9-5900HX 3.3 ГГц,667759.0
+ Lenovo LOQ 15IRX9,Lenovo,1024,SSD,16,15.6,Core i7-13650HX 3.6 ГГц,670660.0
+ HP Pavilion Plus 14-eh0001ci,HP,512,SSD,16,13.0,Core i7-1255U 1.7 ГГц,671990.0
+ HP EliteBook 840 G9,HP,256,SSD,16,14.0,Core i5-1235U 1.3 ГГц,673500.0
+ Dell Latitude 7275,Dell,128,SSD,8,12.5,Core-m5-6Y57 2.8 ГГц,674000.0
+ MSI GF65 Thin 10SDR i310300H,MSI,512,SSD,8,15.6,i3-10300H 3700,674000.0
+ MSI GF65 Thin 10SDR 512 GB,MSI,512,SSD,8,15.6,Core i7 10750H 2600 МГц,674000.0
+ Lenovo LOQ 16APH8,Lenovo,512,SSD,16,16.0,Ryzen 7-7840HS 3.8 ГГц,674143.0
+ Asus Vivobook S 15 K5504VA,Asus,1024,SSD,16,15.6,Core i7-13700H 2.4 ГГц,674338.0
+ Asus TUF Gaming A15 FA507NV,Asus,512,SSD,16,15.6,Ryzen 7-7735HS 3.2 ГГц,675527.0
+ Dell Latitude 5590 210-ANMI_N051L,Dell,500,HDD,8,15.6,Core i5 8350U 1.7 ГГц,677000.0
+ Dell Latitude 5490 210-ANMF,Dell,256,SSD,8,14.0,Core i5 8250U 1.6 ГГц,677000.0
+ HP EliteBook 850 G8,HP,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,677500.0
+ Dell Latitude 3520,Dell,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,678000.0
+ Dell G15 5510,Dell,512,SSD,8,15.6,Core i5-10500H 2.4 ГГц,678000.0
+ Dell G15 5510,Dell,512,SSD,16,15.6,Core i5-10500H 2.4 ГГц,678000.0
+ HP EliteBook 830 G9  ,HP,256,SSD,8,13.3,Core i5-1235U 1.3 ГГц,679400.0
+ HP EliteBook 840 G9 ,HP,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,679400.0
+ Lenovo IdeaPad 3 16IAH7,Lenovo,1024,SSD,16,16.0,Core i7-12700H 3.5 ГГц,680500.0
+ Lenovo ThinkBook 14 Gen 6,Lenovo,512,SSD,16,14.0,Core i7-13700H 2.4 ГГц,680875.0
+ HP EliteBook 860 G9,HP,512,SSD,16,16.0,Core i7-1255U 1.7 ГГц,681450.0
+ Lenovo ThinkBook 14 G4 IAP,Lenovo,512,SSD,16,14.0,Core i5-1240P 1.7 ГГц,681900.0
+ Lenovo Yoga 7 15ITL5,Lenovo,1024,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,681900.0
+ Asus TUF Gaming A16 AE FA617NS-N3003,Asus,1024,SSD,16,16.0,Ryzen 7-7735HS 3.2 ГГц,683635.0
+ Lenovo Legion 5 17ACH6,Lenovo,512,SSD,16,17.3,Ryzen 7-5800H 3.2 ГГц,684100.0
+ HP Victus 16-d0003ur,HP,512,SSD,8,16.1,Core i5-11400H 2.7 ГГц,684400.0
+ Asus ExpertBook B9 B9400CE,Asus,512,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,685105.0
+ Asus TUF Dash F15 FX517ZE-HN050,Asus,512,SSD,16,15.6,Core i7-12650H 2.3 ГГц,685705.0
+ Dell Latitude 3510,Dell,256,SSD,8,15.6,Core i7-10510U 1.8 ГГц,687100.0
+ Asus TUF Gaming F15 FX506HM,Asus,512,SSD,16,15.6,Core i5-11400H 2.7 ГГц,687583.0
+ HP EliteBook 830 G9,HP,512,SSD,16,13.3,Core i7-1255U 1.2 ГГц,690113.0
+ HP Europe 250 G7,HP,512,SSD,16,15.6,Core i7 1065G7 1.3 ГГц,691000.0
+ Dell Latitude 3540,Dell,512,SSD,16,15.6,Core i7-1355U 1.7 ГГц,691556.0
+ Apple MacBook Air MGND3RU/A,Apple,256,SSD,8,13.3,M1 3.2ГГц,693000.0
+" Apple MacBook Air 13,3 Silver",Apple,256,SSD,8,13.3,M1 3200 МГц,693000.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,698750.0
+ HP ZBook 17 G5,HP,512,SSD,32,15.0,"Core i7-8850H 2,6 ГГц",698900.0
+ HP ProBook 650 G5,HP,256,SSD,8,15.6,Core i5 8365U 1.6 ГГц,699300.0
+ Dell Vostro 5620,Dell,512,SSD,16,16.0,Core i7-1260P 2.1 ГГц,699729.0
+ Lenovo IdeaPad 5 Pro 16ACH6,Lenovo,1024,SSD,32,16.0,Ryzen 9-5900HX 3.3 ГГц,699990.0
+ HP Europe 850 G7,HP,256,SSD,8,15.6,Core i5 10210U 1.6 ГГц,700100.0
+ HP Elitebook 850 G4,HP,500,HDD,4,15.6,Core i5 7300U 2.7 ГГц,701000.0
+ Lenovo ThinkBook 13s G4 IAP,Lenovo,512,SSD,16,13.3,Core i5-1240P 1.7ГГц,702100.0
+ Lenovo Ideapad Gaming 3 ,Lenovo,512,SSD,16,15.6,Ryzen 7-5800H 3.2 ГГц,702400.0
+ HP EliteBook 840 G9,HP,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,703500.0
+ MSI Alpha 15 B5EEK-090XKZ,MSI,512,SSD,8,15.6,Ryzen 5-5600H 3.3 ГГц,705100.0
+ MSI Prestige 14Evo A11M-258XKZ,MSI,512,SSD,16,14.0,Intel Core i7-1185G7,705500.0
+ Lenovo ThinkPad E14 Gen 4,Lenovo,512,SSD,16,14.0,Core i5-1235U 1.3 ГГц,706200.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,256,SSD,8,16.0,Core i5-1235U 1.3 ГГц,707840.0
+ Lenovo Legion 5 15ACH6H,Lenovo,512,SSD,16,15.6,Ryzen 5-5600H 3.3 ГГц,708600.0
+ HP ProBook 430 G8,HP,256,SSD,8,13.3,Core i7-1165G7 2.8 ГГц,709300.0
+ Dell Latitude 5520,Dell,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,709400.0
+ Lenovo Yoga Slim 7 Pro 16ARH7,Lenovo,512,SSD,16,16.0,Ryzen 5-6600HS 3.3 ГГц,709750.0
+ Dell Latitude 5530,Dell,512,SSD,8,15.6,Core i5-1235U 1.3 ГГц,710100.0
+ Lenovo Legion 5 15IMH6,Lenovo,512,SSD,16,15.6,Core i5-10500Н 2.5 ГГц,710800.0
+ HP Victus 16-d1073ci,HP,512,SSD,16,16.1,Core i5-12500H 2.5 ГГц,711795.0
+ Dell Latitude 5420,Dell,256,SSD,8,14.0,Core i5-1135G7 2.4 ГГц,712000.0
+ HP EliteBook 850 G6 6XD79EA,HP,256,SSD,8,15.6,Core i5 8265U 1.6 ГГц,712000.0
+ Lenovo Legion 5 15ACH6H,Lenovo,1024,SSD,16,15.6,Ryzen 5-5600H 3.3 ГГц,712200.0
+ HP Victus 16-d1074ci,HP,512,SSD,16,16.1,Core i5-12500H 2.5 ГГц,713990.0
+ MSI Katana GF66 11UD-460XKZ,MSI,512,SSD,16,15.6,Core i5-11400H 2.7 ГГц,715100.0
+ Lenovo ThinkBook 13s-IML,Lenovo,512,SSD,16,13.3,Core i7 10510U 1.8 ГГц,715300.0
+ Asus ExpertBook B5 B5602CBA-L20107X,Asus,512,SSD,8,16.0,Core i5-1240P 1.7 ГГц,716095.0
+ Apple MacBook Air A2681 Midnight,Apple,256,SSD,8,13.6,M2,717658.0
+ Apple MacBook Air A2681 Space Gray,Apple,256,SSD,8,13.6,M2,717658.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,512,SSD,8,16.0,Core i5-1235U 1.3 ГГц,718480.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,718500.0
+ MSI GF63 Thin 10UC-449XKZ,MSI,512,HDD+SSD,8,15.6,Core i7-10750H-2.6,718500.0
+  Lenovo Yoga S940-14IWL,Lenovo,512,SSD,8,14.0,Core i5-8265U,718500.0
+ HP ENVY x360 Convert 15-eu0016ur,HP,1024,SSD,16,15.6,Ryzen 7 5700U 1.8 ГГц,718800.0
+ Lenovo IdeaPad Gaming 3 15ACH6,Lenovo,512,SSD,16,15.6,Ryzen 5-5600H 3.3 ГГц,721400.0
+ Colorful X15 XS 22-HC75B16512A-B-SA,Colorful,512,SSD,16,15.6,Core i7-12700H 2.3 ГГц,721500.0
+ Dell Latitude 7330,Dell,512,SSD,8,13.3,Core i5-1235U 1.3 ГГц,723690.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,256,SSD,8,16.0,Core i5-1235U 1.3 ГГц,724640.0
+ Lenovo Legion 5 Pro,Lenovo,1024,SSD,16,15.6,Core i5-12500H 2.5 ГГц,724875.0
+ HP EliteBook 830 G9,HP,256,SSD,8,13.3,Core i5-1235U 1.3 ГГц,724900.0
+ MSI Katana 15 B13VEK-1496XKZ,MSI,1024,SSD,16,15.6,Core i7-13620H 2.4 ГГц,725265.0
+ Lenovo Yoga 7 15ITL5,Lenovo,1024,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,725800.0
+ HP ProBook 450 G8,HP,1024,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,728600.0
+ Lenovo Thinkpad E15,Lenovo,512,SSD,16,15.6,Core i7-1165G7 1.80 ГГц,729100.0
+ MSI Alpha 15 B5EEK,MSI,512,SSD,8,15.6,Ryzen 5-5600H 3.3 ГГц,730121.0
+ MSI Alpha 15 B5EEK,MSI,512,SSD,8,15.6,Ryzen 5-5600H 3.3 ГГц,730121.0
+ Asus ExpertBook B9 B9400CBA,Asus,512,SSD,8,14.0,Core i5-1235U 1.3 ГГц,730573.0
+  Lenovo ThinkPad E14,Lenovo,512,SSD,8,14.0,Ryzen 5-5500U,731400.0
+ Lenovo Legion 5 15ACH6H,Lenovo,512,SSD,16,15.6,Ryzen 5-5600H 3.3 ГГц,731500.0
+ HP EliteBook 840 G8,HP,512,SSD,16,14.0,Core i7-1165G7 2.8 ГГц,732100.0
+ Apple MacBook Air A2681 Silver,Apple,256,SSD,8,13.6,M2,734128.0
+ HP Pavilion Plus 14-eh0000ci,HP,512,SSD,16,14.0,Core i7-1255U 1.7 ГГц,734990.0
+ Lenovo ThinkBook 14 G4 IAP,Lenovo,1024,SSD,16,14.0,Core i7-1255U 3.2 ГГц,735750.0
+ Apple MacBook Pro 15.1,Apple,500,SSD,32,13.3,Core i7-8950HK 2.9 ГГц,736900.0
+ Dell Latitude 5430,Dell,512,SSD,16,14.0,Core i5-1235U 1.3 ГГц,736900.0
+ Asus TUF Gaming F15 FX507ZV4-LP047,Asus,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,737470.0
+ HP ENVY 13-Ba1026ur,HP,512,SSD,16,13.3,Core i7-1165G7 2.8 ГГц,738100.0
+ HP EliteBook 860 G9,HP,512,SSD,16,16.0,Core i7-1255U 1.7 ГГц,740700.0
+ Apple MacBook Air MQD32RU/A,Apple,128,SSD,8,13.3,Intel Core i5 5350U,744700.0
+ HP Spectre x360 14-ef2000ci,HP,1024,SSD,16,13.5,Core i5-1335U 1.3 ГГц,745490.0
+ HP ProBook 650 G4 3MW45AW#ACB,HP,500,HDD,8,15.6,Core i5 8350U 1.7 ГГц,746800.0
+ HP EliteBook 830 G8,HP,256,SSD,8,13.3,Core i7-1165G7 2.8 ГГц,747900.0
+ HP EliteBook 840 G9  ,HP,256,SSD,8,14.0,Core i7-1255U 1.7 ГГц,750400.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,753400.0
+ Asus ROG Strix G16 G614JU,Asus,512,SSD,16,16.0,Core i5-13450HX 2.4 ГГц,754538.0
+ Dell Precision 7530,Dell,1000,SSD,16,15.6,Core i7-8750H 2.2 ГГц,758900.0
+ HP EliteBook 830 G9,HP,512,SSD,16,13.3,Core i5-1235U 1.3 ГГц,761800.0
+ HP ZBook 17 G5,HP,1000,SSD,64,15.0,"Core i7-8850H 2,6 ГГц",764900.0
+ HP Spectre x360 14-ef2006ci,HP,1024,SSD,16,13.5,Core i5-1335U 1.3 ГГц,766490.0
+ HP EliteBook 840 G8 ,HP,512,SSD,16,14.0,Core i5-1145G7 1.1 ГГц,768100.0
+ Asus TUF Dash F15 FX517ZM-HN094,Asus,512,SSD,16,15.6,Core i5-12450H 2.0 ГГц,768242.0
+ Dell G15 5511,Dell,512,SSD,16,15.6,Core i7-11800H 2.3 ГГц,769400.0
+ Dell Latitude 5530,Dell,512,SSD,16,15.6,Core i5-1235U 1.3 ГГц,769900.0
+ Asus Rog Strix G15 G513RM-LN428,Asus,512,SSD,16,15.6,Ryzen 7-6800H 3.2 ГГц,770004.0
+ Lenovo ThinkBook 16 G4+ IAP,Lenovo,512,SSD,16,16.0,Core i5-12500H 2.5 ГГц,773750.0
+ HP EliteBook 830 G8,HP,512,SSD,16,13.3,Core i5-1135G7 2.4 ГГц,774300.0
+ HP ProBook 450 G8,HP,1024,SSD,32,15.6,Core i7-1165G7 2.8 ГГц,774400.0
+ MSI GF65 Thin 10SDR,MSI,512,SSD,16,15.6,Core i7 10750H 2.6 ГГц,774600.0
+ Dell Latitude 3520,Dell,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,774700.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,775800.0
+ Asus TUF Gaming A15 FA506QM,Asus,1024,SSD,16,15.6,Ryzen 7-5800H 3.2 ГГц,775849.0
+ HP Victus 16-d1039ci,HP,1024,SSD,16,16.1,Core i7-12700H 2.3 ГГц,776990.0
+ Dell Latitude 5520 ,Dell,512,SSD,8,15.6,Core i5-1145G7 2.6 ГГц,777300.0
+ HP EliteBook 840 G8,HP,512,SSD,16,14.0,Core i7-1165G7 2.8 ГГц,778000.0
+ Dell Latitude 7330,Dell,512,SSD,16,13.3,Core i5-1235U 1.3 ГГц,780592.0
+ Asus Vivobook Pro 16 K6602VU,Asus,512,SSD,16,16.0,Core i5-13500H 2.6 ГГц,781039.0
+ Lenovo ThinkBook 15 Gen 2,Lenovo,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,782000.0
+ Lenovo Thinkpad T15 Gen 2,Lenovo,256,SSD,8,15.6,Core i5-1135G7 2.4 ГГц,782000.0
+ Dell XPS 13 ,Dell,256,SSD,8,13.3,Core i5-10210U 1.6 ГГЦ,783700.0
+ Dell XPS 13,Dell,256,SSD,8,13.3,Core i7-8550U 1.8 ГГц,783700.0
+ HP ProBook 450 G10,HP,1024,SSD,32,15.6,Core i7-1355U 1.7 ГГц,785400.0
+ Asus TUF Dash F15 FX517ZM-HN093,Asus,512,SSD,16,15.6,Core i7-12650H 2.3 ГГц,786214.0
+ Dell XPS 13 9300-3954,Dell,512,SSD,8,13.4,Core i5-1035G1 1.0 ГГц,787223.0
+ Dell Latitude 5520,Dell,512,SSD,16,15.6,Core i5-1145G7 2.6 ГГц,787900.0
+ Acer Nitro 5 AN515-46,Acer,512,SSD,8,15.6,Ryzen 5-6600H 3.3 ГГц,790766.0
+ HP EliteBook 830 G9,HP,512,SSD,16,13.3,Core i5-1235U 1.3 ГГц,790900.0
+ MSI GF65 Thin 10UE-298XKZ,MSI,512,SSD,16,15.6,Core i5-11500H,791600.0
+ Apple MacBook Air A2337 Gold,Apple,512,SSD,8,13.3,M1,791892.0
+ Apple MacBook Air A2337 Silver,Apple,512,SSD,8,13.3,M1,791892.0
+ Apple MacBook Air A2337 Space Grey,Apple,512,SSD,8,13.3,M1,791892.0
+ Acer Nitro 5 AN515-58,Acer,512,SSD,16,15.6,Core i7-12700H 2.3 ГГц,791900.0
+ Dell Alienware m15,Dell,1000,HDD+SSD,16,15.0,"Core i7-8750H - 2,2 ГГц",791900.0
+ HP EliteBook x360 830 G8,HP,256,SSD,8,13.3,Core i5-1135G7 2.4 ГГц,792800.0
+ HP EliteBook 860 G9,HP,512,SSD,16,16.0,Core i7-1255U 1.7 ГГц,794063.0
+ HP EliteBook 850 G8,HP,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,794200.0
+ HP EliteBook 850 G6 6XE72EA,HP,256,SSD,8,15.6,Core i7 8565U 1.8 ГГц,794600.0
+ Apple MacBook Air A2681 Starlight,Apple,256,SSD,8,13.6,M2,795238.0
+ HP EliteBook 830 G9,HP,256,SSD,8,13.3,Core i5-1245U 1.6 ГГц,795600.0
+ HP Victus 16-d1040ci,HP,1024,SSD,16,16.1,Core i7-12700H 2.3 ГГц,795700.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,512,SSD,16,16.0,Core i5-1240P 1.7 ГГц,799888.0
+ HP ZBook 17 G5,HP,1000,SSD,64,15.0,"Core i7-8850H 2,6 ГГц",800900.0
+ Lenovo ThinkPad T14G3,Lenovo,256,SSD,8,14.0,Core i5-1235U 1.3 ГГц,802900.0
+ Dell Latitude 5430 ,Dell,512,SSD,16,14.0,Core i7-1255U 1.7 ГГц,806500.0
+ Lenovo ThinkBook 15 G2 ITL,Lenovo,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,807800.0
+ Lenovo IdeaPad IP5P-16IHU6,Lenovo,512,SSD,16,16.0,Core i5-11300H 3.1 ГГц,808000.0
+ HP EliteBook 840 G9,HP,512,SSD,16,14.0,Core i7-1255U 1.7 ГГц,808500.0
+ HP EliteBook 850 G8,HP,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,809500.0
+ HP EliteBook 840 G9,HP,256,SSD,8,14.0,Core i7-1255U 1.7 ГГц,811100.0
+ Lenovo Legion 5 Gen 7,Lenovo,1024,SSD,16,15.6,Ryzen 5-6600H 3.3 ГГц,813942.0
+ Asus Rog Zephyrus G14 GA401QE-HZ101T,Asus,512,SSD,16,14.0,Ryzen 7-5800HS 2.8 ГГц,815720.0
+ Dell Vostro 5620,Dell,512,SSD,16,16.0,Core i7-1260P 2.1 ГГц,819590.0
+ HP EliteBook 1040 G10,HP,512,SSD,16,14.0,Core i7-1355U 1.7 ГГц,820050.0
+ Lenovo Legion Pro 5 Gen 8,Lenovo,1024,SSD,16,16.0,Core i5-13500HX 2.5 ГГц,821390.0
+ Apple MacBook Air Z1240004P,Apple,256,SSD,16,13.3,"M1 2,99 ГГц",823100.0
+ HP ZBook Fury 15 G7,HP,256,SSD,8,15.6,Core i5-10400H 2.6 ГГц,826500.0
+ HP EliteBook 840 G8 ,HP,256,SSD,16,14.0,Core i5-1145G7 1.1 ГГц,827100.0
+ Dell Latitude 5530,Dell,512,SSD,16,15.6,Core i7-1255U 1.7 ГГц,830400.0
+ Apple MacBook Air Midnight,Apple,256,SSD,8,13.6,M2 8‑Core,830500.0
+ Apple MacBook Air Starlight,Apple,256,SSD,8,13.6,M2 8‑Core,830500.0
+ Apple MacBook Air Silver,Apple,256,SSD,8,13.6,M2 8‑Core,830500.0
+ Apple MacBook Air Space Grey,Apple,256,SSD,8,13.6,M2 8‑Core,830500.0
+ MSI GF65 Thin 10SER,MSI,1024,SSD,16,15.6,Core i7 10750H 2.6 ГГц,833300.0
+ HP EliteBook 830 G6,HP,256,SSD,8,13.3,Core i7-8565U 1.8ГГц,836000.0
+ Apple MacBook Air A1932 MVFK2,Apple,128,SSD,8,13.3,Core i5-8210Y 1.6 ГГц,838700.0
+ Apple MacBook Air A1932 MVFH2,Apple,128,SSD,8,13.3,Core i5-8210Y 1.6 ГГц,838700.0
+ Apple MacBook Air A1932 MREE2,Apple,128,SSD,8,13.3,Core i5-8210Y 1.6 ГГц,838700.0
+ HP Europe EliteBook 830 G8,HP,512,SSD,16,13.3,Core i7-1165G7 2.8 ГГц,844700.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,1024,SSD,16,14.0,Ryzen 7 Pro 6850U 2.7 ГГц,847213.0
+ Asus ROG Strix G16 G614JV,Asus,1024,SSD,16,16.0,Core i5-13450HX 2.4 ГГц,847620.0
+ Apple MacBook Air A2941 Silver,Apple,256,SSD,8,15.3,M2,848758.0
+ Apple MacBook Air A2941 Space Grey,Apple,256,SSD,8,15.3,M2,848758.0
+ MSI Prestige 16 Studio A13VE-277XKZ,MSI,1024,SSD,16,15.6,Core i7-13700H 2.4 ГГц,849046.0
+ MSI GF63 Thin 11SC-292XKZ,MSI,512,SSD,16,15.6,Core i7-11800H 2.3 ГгЦ,849500.0
+ Lenovo 20S6000MRT,Lenovo,256,SSD,8,15.6,Core i5-10210U,850200.0
+ Dell Inspiron G5 15 5510,Dell,512,SSD,16,15.6,Core i7-10870H 2.2 ГГц,850200.0
+ MSI Alpha 15 B5EEK-003XKZ,MSI,512,SSD,16,15.6,Ryzen 7-5800H 3.2 ГГц,850409.0
+ Acer Nitro 5 AN517-42,Acer,512,SSD,8,17.3,Ryzen 5-6600H 3.3 ГГц,850781.0
+ Asus TUF Gaming A17 FA707RM-HX041W,Asus,512,SSD,16,17.3,Ryzen 7-6800H 3.2 ГГц,850898.0
+ Apple MacBook Air A2941 Midnight,Apple,256,SSD,8,15.3,M2,851990.0
+ Asus ExpertBook B9 B9400CBA-KC0323X,Asus,1024,SSD,16,14.0,Core i7-1255U 1.7 ГГц,855044.0
+ Asus TUF Gaming A15 FA507XI-HQ014,Asus,512,SSD,16,15.6,Ryzen 9-7940HS 4.0 ГГц,857459.0
+ Dell Vostro 7620,Dell,512,SSD,8,16.0,Core i7-12700H 2.3 ГГц,858810.0
+ Lenovo T15 G1 20S6000NRT,Lenovo,512,SSD,8,15.6,Core i5-10210U,862100.0
+ Dell Alienware m15,Dell,1000,HDD+SSD,16,15.0,"Core i7-8750H - 2,2 ГГц",862900.0
+ Lenovo ThinkPad T14 G4,Lenovo,512,SSD,16,14.0,Core i7-1355U 1.7 ГГц,862960.0
+ Apple MacBook Air Silver,Apple,512,SSD,8,13.3,M1 3.2 ГГц,863500.0
+ Apple MacBook Air Space Grey,Apple,512,SSD,8,13.3,M1 3.2 ГГц,863500.0
+ Apple 13-inch MacBook Air,Apple,512,SSD,8,13.3,M1 3200 МГц,863500.0
+ Dell Latitude 7330,Dell,512,SSD,16,13.3,Core i7-1255U 1.7 ГГц,864048.0
+ Lenovo ThinkPad P73,Lenovo,1024,SSD,16,17.3,Core i7-9750H 2.6 GHz,865900.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,512,SSD,16,16.0,Core i7-1255U 1.7 ГГц,867440.0
+ Apple MacBook Pro A2338 Space Grey,Apple,256,SSD,8,13.3,M2,867568.0
+ Apple MacBook Air A2681 Midnight,Apple,256,SSD,8,13.6,M2,868080.0
+ Apple MacBook Air A2681 Starlight,Apple,256,SSD,8,13.6,M2,868080.0
+ Apple MacBook Air A2681 Space Grey,Apple,256,SSD,8,13.6,M2,868080.0
+ Apple MacBook Pro A2338 Silver,Apple,256,SSD,8,13.3,M2,868198.0
+ Apple MacBook Air A2941 Starlight,Apple,256,SSD,8,15.3,M2,868198.0
+ Apple MacBook A1534,Apple,256,SSD,8,12.0,Core m3 1.2ГГц,868600.0
+ Asus ExpertBook B9 B9400CBA,Asus,512,SSD,16,14.0,Core i5-1235U 1.3 ГГц,871655.0
+ Lenovo ThinkPad X13,Lenovo,512,SSD,16,13.3,Core i5-1240P 1.7 ГГц,872563.0
+ Lenovo ThinkBook 16 G4+ IAP,Lenovo,1024,SSD,16,16.0,Core i7-1260P 2.1 ГГц,873600.0
+ Apple MacBook Air MREE2RU/A,Apple,128,SSD,8,13.0,Intel® Core™ i5,873900.0
+ Apple MacBook Air MREA2RU/A,Apple,128,SSD,8,13.0,Intel® Core™ i5,873900.0
+ Lenovo Legion 5 Gen 7,Lenovo,1024,SSD,16,15.6,Core i7-12700H 1.7 ГГц,874750.0
+ Lenovo 20S6000NRT,Dell,512,SSD,8,15.6,Core i5-10210U,875200.0
+ Apple MacBook Air MRE82RU/A,Apple,128,SSD,8,13.0,Intel Core i5 8210Y,875200.0
+ Dell Vostro 7620,Dell,512,SSD,16,16.0,Core i7-12700H 2.3 ГГц,875815.0
+ Dell Vostro 7620,Dell,512,SSD,16,16.0,Core i7-12700H 2.3 ГГц,877396.0
+ Dell Latitude 5430,Dell,512,SSD,16,14.0,Core i7-1265U 1.8 ГГц,879900.0
+ HP Spectre x360 16-f1017ci,HP,512,SSD,16,16.0,Core i7-12700H 2.3 ГГц,881990.0
+ HP Spectre x360 16-f1015ci,HP,1024,SSD,16,16.0,Core i7-12700H 2.3 ГГц,881990.0
+ HP EliteBook 830 G9,HP,512,SSD,16,13.3,Core i7-1255U 1.2 ГГц,883600.0
+ Apple MacBook Air A2179 MVH22,Apple,512,SSD,8,13.3,Core i5-1030NG7 1.1 ГГц,887000.0
+ Lenovo ThinkBook 14 Gen 4+,Lenovo,512,SSD,16,14.0,Core i7-1255U 1.2 ГГц,887200.0
+ Lenovo T15 G1 20S60020RT,Lenovo,256,SSD,16,15.6,Core i7-10510U,888200.0
+ Apple MacBook Air A1932 MREA2,Apple,128,SSD,8,13.3,Core i5 1.6ГГц,888200.0
+ Asus ExpertBook B9 B9403CVA-KM0065X,Asus,1024,SSD,16,14.0,Core i7-1355U 1.8 ГГц,888614.0
+ Dell Vostro 7620,Dell,512,SSD,16,16.0,Core i7-12700H 2.3 ГГц,889000.0
+ Asus ROG Zephyrus M16 GU603ZE-K8033,Asus,512,SSD,16,16.0,Core i7-12700H 2.3 ГГц,890618.0
+ Lenovo IdeaPad IP5P Pro 16ACH6,Lenovo,1024,SSD,16,16.0,Ryzen 7-5800H 3.2 ГГц,896800.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,512,SSD,16,16.0,Core i7-1255U 1.7 ГГц,897120.0
+ Apple MacBook Pro Silver,Apple,256,SSD,8,13.3,M2 8‑Core,898700.0
+ Apple MacBook Pro Space Grey,Apple,256,SSD,8,13.3,M2 8‑Core,898700.0
+ Lenovo ThinkBook 16 Gen 4+,Lenovo,1024,SSD,16,16.0,Core i7-1260P 1.5 ГГц,902400.0
+ MSI Katana GF66 12UE,MSI,1024,SSD,16,15.6,Core i7-12650H 2.3 ГГц,907715.0
+ HP EliteBook x360 830 G8,HP,512,SSD,16,13.3,Core i7-1165G7 2.8 ГГц,908500.0
+ Lenovo Legion 5,Lenovo,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,910000.0
+ Dell Vostro 7620,Dell,512,SSD,16,16.2,Core i7-12700H 2.3 ГГц,912900.0
+ HP Spectre x360 16-f1009ci,HP,512,SSD,16,16.0,Core i7-12700H 2.3 ГГц,913490.0
+ Apple MacBook Pro A2338 MYDA2,Apple,256,SSD,8,13.3,M1 3.2ГГц,914400.0
+ HP EliteBook 850 G6 6XE20EA,HP,512,SSD,16,15.6,Core i7 8565U 1.8 ГГц,915100.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,512,SSD,16,14.0,Core i7-1255U 1.7 ГГц,916800.0
+ Dell Vostro 7620,Dell,1000,SSD,16,16.0,Core i7-12700H 2.3 ГГц,920529.0
+ HP ZBook Firefly 15 G8,HP,512,SSD,32,15.6,Core i7-11850H 2.5 ГГц,921700.0
+ MSI Katana GF76 12UD-233XKZ,MSI,512,SSD,16,17.3,Core i7-12700H 2.3 ГГц,922600.0
+ HP Omen 16-c0057ur,HP,512,SSD,16,16.1,Ryzen 7-5800H 3.2 ГГц,923895.0
+ Dell Latitude 5430,Dell,512,SSD,16,14.0,Core i7-1265U 1.8 ГГц,928300.0
+ Lenovo Legion 5 15ARH7H,Lenovo,512,SSD,16,15.6,Ryzen 7-6800H 3.2 ГГц,929200.0
+ Dell Latitude 5530,Dell,512,SSD,16,15.6,Core i7-1265U 1.8 ГГц,930500.0
+ Dell Latitude 5530,Dell,512,SSD,16,15.6,Core i7-1265U 1.8 ГГц,930500.0
+ Lenovo ThinkPad E15 Gen 2,Lenovo,512,SSD,8,15.6,Core i7-1165G7 2.8 ГГц,930500.0
+ Acer Nitro 5 AN515-58,Acer,1024,SSD,16,15.6,Core i7-12700H 1.7 ГГц,931200.0
+ Lenovo ThinkPad T590,Lenovo,256,SSD,8,15.6,Core i7-8565U 1.8 ГГц,940400.0
+ Lenovo Legion 5 Gen 7,Lenovo,1024,SSD,16,15.6,Ryzen 7-6800H 3.2 ГГц,941203.0
+ Asus ExpertBook B5 B5602CBA-L20109X,Asus,1024,SSD,16,16.0,Core i7-1260P 2.1 ГГц,943080.0
+ Acer Nitro 5 AN515-46-R031,Acer,512,SSD,16,15.6,Ryzen 7-6800H 3.2 ГГц,943100.0
+ MSI GF66 Katana 11UE-226XKZ,MSI,1000,SSD,16,15.6,Core i7-11800H 2.3 ГГц,944100.0
+ Apple MacBook Air A2681 Silver,Apple,512,SSD,8,13.6,M2,946528.0
+ HP Zbook Power G7,HP,1024,SSD,16,15.6,Core i7-10750H 2.6 ГГц,951100.0
+ Apple MacBook Pro MPXT2RU/A,Apple,256,SSD,8,13.0,Intel® Core™ i5,953300.0
+ Apple MacBook Pro MPXR2RU/A,Apple,128,SSD,8,13.0,Intel® Core™ i5,953300.0
+ Apple MacBook Pro MPXQ2RU/A,Apple,128,SSD,8,13.0,Intel® Core™ i5,953300.0
+ Apple MacBook Air MVFM2RU/A,Apple,128,SSD,8,13.0,Intel Core i5 8210Y,953300.0
+ Apple MacBook Air MVFK2RU/A,Apple,128,SSD,8,13.0,Intel Core i5 8210Y,953300.0
+ Apple MacBook Air MVFH2RU/A,Apple,128,SSD,8,13.0,Intel Core i5 8210Y,953300.0
+ Asus ROG Strix G18 G814JV-N5042,Asus,1024,SSD,16,18.0,Core i7-13650HX 2.6 ГГц,953603.0
+ HP ZBook Power G8,HP,512,SSD,16,15.6,Core i7-11800H 2.5 ГГц,955400.0
+ Lenovo Legion Slim 5 Gen 8,Lenovo,1024,SSD,16,16.0,Ryzen 7-7840HS 3.8 ГГц,956204.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,512,SSD,16,14.0,Core i5-1235U 1.3 ГГц,959500.0
+ Lenovo Legion 5 Pro 16ACH6H,Lenovo,1024,SSD,16,16.0,Ryzen 7-5800H 3.2 ГГц,964100.0
+ Lenovo T14 G1 20S00012RT,Lenovo,512,HDD,8,14.0,Core i5-10210U,968000.0
+ Asus TUF Dash F15 FX517ZR,Asus,1024,SSD,16,15.6,Core i7-12650H 2.3 ГГц,968191.0
+ HP EliteBook 860 G9,HP,512,SSD,16,16.0,Core i7-1265U 3.6 ГГц,969900.0
+ Asus ROG Strix G16 G614JV-N4071W,Asus,1024,SSD,16,16.0,Core i7-13650HX 2.6 ГГц,973210.0
+ MSI GF76 Katana 11UE-094XKZ,MSI,1000,SSD,16,17.3,Core i7-11800H 2.3 ГГц,975100.0
+ HP Spectre x360 14-ef0012ci,HP,1024,SSD,16,13.5,Core i7-1255U 1.7 ГГц,977800.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,512,SSD,16,14.0,Ryzen 7 Pro 6850U 2.7 ГГц,977900.0
+ Dell XPS 13 9380 210-ARIF_7FHD,Dell,256,SSD,8,13.3,Core i7 8565U 1.8 ГГц,978800.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,512,SSD,16,16.0,Core i7-1260P 2.1 ГГц,979700.0
+ HP EliteBook 850 G8,HP,512,SSD,16,15.6,Core i7-1165G7 2.8 ГГц,979700.0
+ HP EliteBook x360 1030 G2,HP,256,SSD,8,13.3,Core i5-7300U 2.6ГГц,979700.0
+ Apple MacBook Air A2941 Midnight,Apple,512,SSD,8,15.3,M2,979790.0
+ Apple MacBook Air A2941 Silver,Apple,512,SSD,8,15.3,M2,979790.0
+ Apple MacBook Air A2941 Space Grey,Apple,512,SSD,8,15.3,M2,979790.0
+ Lenovo Legion 5P,Lenovo,1024,SSD,16,15.6,Ryzen 7-6800H 3.2 ГГц,982776.0
+ HP Omen 16-b1017ci,HP,1024,SSD,16,16.1,Core i7-12700H 2.3 ГГц,986990.0
+ HP Envy 16-h0005ci,HP,1024,SSD,16,16.0,Core i7-12700H 2.3 ГГц,986990.0
+ HP Spectre x360 14-ef2001ci,HP,2048,SSD,32,13.5,Core i7-1355U 1.7 ГГц,986990.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,512,SSD,16,16.0,Core i7-1260P 2.1 ГГц,987750.0
+ Lenovo ThinkPad X13 G2,Lenovo,512,SSD,16,13.3,Core i7-1165G7 2.4 ГГц,989500.0
+ Lenovo Legion 5 Pro 16IAH7H,Lenovo,1024,SSD,32,16.0,Core i7-12700H 3.5 ГГц,989900.0
+ Asus Vivobook Pro 16X M7601RM-MX071W,Asus,1024,SSD,16,16.0,Ryzen 7-6800H 3.2 ГГц,990799.0
+ Lenovo 20S00012RT,Lenovo,512,SSD,8,14.0,Core i5-10210U,995400.0
+ Gigabyte Aorus 15 BSF-73KZ754SD,Gigabyte,1024,SSD,16,15.6,Core i7-13700H 2.4 ГГц,997490.0
+ Lenovo ThinkPad T16 Gen 1,Lenovo,1024,SSD,16,16.0,Core i7-1255U 1.7 ГГц,997513.0
+ Lenovo ThinkPad X1 Carbon Gen 10,Lenovo,256,SSD,16,14.0,Core i5-1235U 0.9 ГГц,999999.0
+ Apple MacBook Pro A2338 Silver,Apple,512,SSD,8,13.3,M2 3.5 ГГц,1003228.0
+ Lenovo Legion Slim 5 Gen 8,Lenovo,1024,SSD,32,16.0,Ryzen 7-7840HS 3.8 ГГц,1010048.0
+ Asus ExpertBook B9 B9400CBA,Asus,1024,SSD,16,14.0,Core i7-1255U 1.7 ГГц,1010302.0
+ Asus Vivobook Pro 16X K6604JV,Asus,1024,SSD,16,16.0,Core i7-13700HX 2.1 ГГц,1011031.0
+ Lenovo ThinkPad X13,Lenovo,512,SSD,16,13.3,Core i7-1260P 2.1 ГГц,1012500.0
+ HP EliteBook x360 1040 G8,HP,512,SSD,16,14.0,Core i7-1165G7 2.8 ГГц,1015200.0
+ Dell Alienware m15,Dell,1000,HDD+SSD,32,15.0,"Core i7-8750H - 2,2 ГГц",1019900.0
+ Lenovo ThinkPad T14s Gen 3,Lenovo,1024,SSD,16,14.0,Core i7-1260P 1.5 ГГц,1026800.0
+ HP Spectre x360 16-f1013ci,HP,1024,SSD,16,16.0,Core i7-1260P 2.1 ГГц,1028990.0
+ Gigabyte Aorus 15 BSF-73KZ754SH,Gigabyte,1024,SSD,16,15.6,Core i7-13700H 2.4 ГГц,1028990.0
+ Apple MacBook Air MREF2RU/A,Apple,256,SSD,8,13.0,Intel® Core™ i5,1032800.0
+ Apple MacBook Air MREC2RU/A,Apple,256,SSD,8,13.0,Intel® Core™ i5,1032800.0
+ Apple MacBook Air MRE92RU/A,Apple,256,SSD,8,13.0,Intel® Core™ i5,1032800.0
+ Lenovo Legion 5 Pro 16IAH7H,Lenovo,1024,SSD,32,16.0,Core i7-12700H 2.3 ГГц,1033300.0
+ Apple MacBook Pro Silver,Apple,512,SSD,8,13.3,M2 8‑Core,1037300.0
+ Apple MacBook Pro Space Grey,Apple,512,SSD,8,13.3,M2 8‑Core,1037300.0
+ Apple MacBook Air Midnight,Apple,512,SSD,8,13.6,M2 8‑Core,1037300.0
+ Apple MacBook Air Starlight,Apple,512,SSD,8,13.6,M2 8‑Core,1037300.0
+ Apple MacBook Air Silver,Apple,512,SSD,8,13.6,M2 8‑Core,1037300.0
+ Apple MacBook Air Space Grey,Apple,512,SSD,8,13.6,M2 8‑Core,1037300.0
+ HP Spectre x360 14-ef2004ci,HP,2048,SSD,32,13.5,Core i7-1355U 1.7 ГГц,1039490.0
+ Dell XPS 13,Dell,512,SSD,8,13.4,Core i5-1035G1 1.0 ГГц,1044900.0
+ MSI Katana GF66 112UGSZOK-1245XKZ,MSI,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1048205.0
+ HP Europe/EliteBook 840 G5,HP,512,HDD,8,14.0,Intel Core i5 8250U - 1.6 ГГц,1048600.0
+ Apple MacBook Pro MUHQ2RU/A,Apple,128,SSD,8,13.0,Intel® Core™ i5,1064500.0
+ Apple MacBook Pro MUHN2RU/A,Apple,128,SSD,8,13.0,Intel® Core™ i5,1064500.0
+ HP Zbook Power G7,HP,512,SSD,16,15.6,Core i7-10750H 2.6 ГГц,1065500.0
+ HP ZBook Power G8,HP,1024,SSD,16,15.6,Core i7-11800H 2.3 ГГц,1068100.0
+ Asus Rog Zephyrus M16 GU603ZM-K8005W,Asus,512,SSD,16,16.0,Core i7-12700H 2.3 ГГц,1070474.0
+ Dell XPS 13 ,Dell,512,SSD,8,13.4,Core i5-1035G1 1 ГГц,1071000.0
+ HP EliteBook x360 1040 G8,HP,512,SSD,16,14.0,Core i7-1165G7 2.4 ГГц,1074600.0
+ Lenovo Thinkpad T15p Gen 3,Lenovo,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1099900.0
+ HP ZBook Power G8,HP,512,SSD,16,15.6,Core i7-11800H 2.3 ГГц,1107300.0
+ Lenovo ThinkPad X1 Carbon Gen 10,Lenovo,512,SSD,16,14.0,Core i5-1235U 0.9 ГГц,1111250.0
+ Apple MacBook Pro MPXU2RU/A,Apple,256,SSD,8,13.0,Intel® Core™ i5,1112400.0
+ Apple MacBook Air MVFN2RU/A,Apple,256,SSD,8,13.3,Intel Core i5 8210Y,1112400.0
+ Lenovo ThinkPad T14 Gen 3,Lenovo,512,SSD,16,14.0,Core i7-1260P 2.1 ГГц,1122000.0
+ HP ZBook Fury 15 G8,HP,512,SSD,16,15.6,Core i7-11800H 2.3 ГГц,1131400.0
+ Lenovo Legion Pro 5 16IRX8,Lenovo,1024,SSD,32,16.0,Core i7-13700HX 2.1 ГГц,1131522.0
+ MSI Pulse GL66 12UEK-859XKZ,MSI,1000,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1136900.0
+ Apple MacBook Air MVFJ2RU/A,Apple,256,SSD,8,13.3,Intel Core i5 8210Y,1141600.0
+ Asus ROG Strix G16 G614JI-N4148,Asus,1024,SSD,16,16.0,Core i7-13650HX 2.6 ГГц,1143972.0
+ Apple MacBook Air MVFL2RU/A,Apple,256,SSD,8,13.3,Intel Core i5 8210Y,1149400.0
+ Lenovo Thinkpad T15p,Lenovo,512,SSD,16,15.6,Core i7-10750H 2.6 ГГц,1153400.0
+ Lenovo 20YM001WRU,Lenovo,512,SSD,16,16.0,Ryzen 7 5800H,1154300.0
+ Lenovo ThinkPad X1 Carbon G10,Lenovo,512,SSD,16,14.0,Core i5-1235U 1.3 ГГц,1154900.0
+ HP ZBook Fury 15 G7,HP,512,SSD,16,15.6,Core i7-10750H 2.6 ГГц,1160200.0
+ HP ZBook Fury 17 G8,HP,512,SSD,16,17.3,Core i7-11800H 2.3 ГГц,1174300.0
+ Dell XPS 13,Dell,1024,SSD,16,13.4,Core i7-1065G7 1.3 ГГц,1175500.0
+ Lenovo ThinkPad X1 Yoga Gen 7 ,Lenovo,512,SSD,16,14.0,Core i7-1260P 2.1 ГГц,1176900.0
+ Lenovo 20YM000ARU,Lenovo,512,SSD,16,16.0,Ryzen 7 5800H,1178600.0
+ Dell XPS 15 9500,Dell,512,SSD,8,15.6,Core i5-10300H 2.5 ГГц,1182100.0
+ Lenovo ThinkPad X1 Carbon Gen 10,Lenovo,512,SSD,16,14.0,Core i7-1255U 1.2 ГГц,1186250.0
+ Lenovo ThinkPad X1 Carbon Gen 11,Lenovo,512,SSD,16,14.0,Core i7-1355U 1.7 ГГц,1187200.0
+ Lenovo ThinkPad X1 Extreme Gen 5,Lenovo,512,SSD,32,16.0,Core i7-12700H 2.3 ГГц,1222480.0
+ Apple MacBook Pro MUHR2RU/A,Apple,256,SSD,8,13.0,Intel Core i5,1223400.0
+ Apple MacBook Pro MUHP2RU/A,Apple,256,SSD,8,13.0,Intel Core i5,1223400.0
+ HP Zbook Power G8,HP,1024,SSD,32,15.6,Core i7-11800H 2.3 ГГц,1224300.0
+ MSI Katana GF66 12UG,MSI,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1227014.0
+ Gigabyte AORUS 17 XE4,Gigabyte,1000,SSD,16,17.3,Core i7-12700H 2.3 GHz,1230800.0
+ Lenovo Legion 7 Gen 7,Lenovo,1024,SSD,32,16.0,Core i7 12800HX,1231900.0
+ Lenovo ThinkPad X1 Carbon Gen 10,Lenovo,512,SSD,16,14.0,Core i7-1260P 1.5 ГГц,1236250.0
+ Lenovo Legion 5 Pro,Lenovo,1024,SSD,32,16.0,Core i9-12900H 3.8 ГГц,1238750.0
+ Asus Zenbook Pro 14 Duo UX8402VU-P1036W,Asus,1024,SSD,16,14.5,Core i7-13700H 2.4 ГГц,1241339.0
+ Lenovo Legion Pro 7 Gen 8,Lenovo,1024,SSD,32,16.0,Core i9-13900HX 2.2 ГГц,1245110.0
+ HP ZBook 15 G4,HP,512,SSD,16,15.6,Core i7 7700HQ - 2.8 ГГц,1248900.0
+ HP ZBook Fury 15 ,HP,1000,SSD,32,15.5,Core i7-10750H,1267100.0
+ Lenovo Thinkpad T14s Gen2,Lenovo,1000,SSD,16,14.0,Core i7-1165G7 2.8 ГГц,1274800.0
+ Lenovo ThinkPad X13 Yoga,Lenovo,512,SSD,16,13.3,Core i7-1255U,1291000.0
+ MSI Katana GF66 12UGS-858XKZ,MSI,1000,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1303800.0
+ Dell Alienware m17 R2,Dell,256,SSD,16,17.0,"Core i7-9750H - 2,6 ГГц",1307900.0
+ Gigabyte AORUS 15 XE5,Gigabyte,1000,SSD,16,15.6,Core i7-12700H 2.3 GHz,1309500.0
+ Apple MacBook Pro A2485 Space Gray,Apple,512,SSD,16,16.2,M1 Pro,1310728.0
+ Lenovo 20XW005JRT,Lenovo,512,SSD,16,14.0,Core i7-1165G7,1314400.0
+ Lenovo ThinkPad X1 Carbon Gen 10,Lenovo,512,SSD,16,14.0,Core i5-1240P 1.2 ГГц,1326400.0
+ Apple MacBook Pro MR9U2RU/A,Apple,256,SSD,8,13.0,Intel® Core™ i5,1332300.0
+ Lenovo ThinkPad X1 Yoga Gen 7,Lenovo,512,SSD,16,14.0,Core i5-1240P 1.2 ГГц,1340800.0
+ HP ZBook Fury 17 G8,HP,1024,SSD,32,17.3,Core i7-11800H 2.4 ГГц,1341500.0
+ Apple MacBook Pro MR9Q2RU/A,Apple,256,SSD,8,13.0,Intel® Core™ i5,1342400.0
+ Dell XPS 15 9520,Dell,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1353000.0
+ HP ZBook Power G8,HP,1024,SSD,32,15.6,Core i9-11900H 2.5 ГГц,1355500.0
+ Asus Rog Strix G15 G513RS,Asus,1024,SSD,16,15.6,Ryzen 7-6800H 3.2 ГГц,1363672.0
+ Lenovo ThinkPad X1 Carbon G10,Lenovo,512,SSD,16,14.0,Core i7-1260P 2.1 ГГц,1363900.0
+ Gigabyte Aorus 17H BXF-74KZ554SH,Gigabyte,1024,SSD,16,17.3,Core i7-13700H 2.4 ГГц,1364990.0
+ Lenovo ThinkPad X1 Carbon Gen 10,Lenovo,1024,SSD,16,14.0,Core i7-1260P 2.1 ГГц,1376600.0
+ Gigabyte AORUS 15 XE5,Gigabyte,1000,SSD,16,15.6,Core i7-12700H 2.3 GHz,1378900.0
+ Apple MacBook Pro Silver,Apple,512,SSD,16,14.0,M1 Pro,1383800.0
+ Apple MacBook Pro Space Grey,Apple,512,SSD,16,14.0,M1 Pro,1383800.0
+ Dell XPS 13,Dell,1000,SSD,16,13.4,Core i7-1065G7 1.3ГГц,1384500.0
+ Asus ROG Strix G16 G614JZ-N4011,Asus,1024,SSD,16,16.0,Core i7-13650HX 2.6 ГГц,1386667.0
+ MSI Vector GP68HX 13VH-254KZ,MSI,1024,SSD,16,16.0,Core i7-13700HX 2.1 ГГц,1386952.0
+ Lenovo 20XW005VRT,Lenovo,1024,SSD,16,14.0,Core i7 1165G7,1395400.0
+ Dell Alienware 15 R4 256 ГБ,Dell,256,SSD,8,15.0,Core i7-8750H,1414000.0
+ Asus Rog Strix G15 G513RS-HQ005W,Asus,1024,SSD,32,15.6,Ryzen 9-6900HX 3.3 ГГц,1446434.0
+ Apple MacBook Pro MV992RU/A,Apple,256,SSD,8,13.0,Intel Core i5,1461700.0
+ Apple MacBook Pro MV962RU/A,Apple,256,SSD,8,13.0,Intel Core i5,1461700.0
+ Lenovo Thinkpad T15p Gen 3,Lenovo,1024,SSD,32,15.6,Core i7-12700H 2.3 ГГц,1467200.0
+ Dell XPS 15 9510,Dell,512,SSD,16,15.6,Core i7-11800H 2.3 ГГц,1493000.0
+ Apple MacBook Pro MR9V2RU/A,Apple,512,HDD+SSD,8,13.0,Intel® Core™ i5,1493400.0
+ Apple MacBook Pro MR9R2RU/A,Apple,512,SSD,8,13.0,Intel® Core™ i5,1493400.0
+ MSI Creator Z17HX Studio A13VFT-233KZ,MSI,2048,SSD,32,17.0,Core i9-13980HX 2.2 ГГц,1498642.0
+ Lenovo ThinkPad X1 Nano Gen 2,Lenovo,512,SSD,16,13.0,Core i7-1260P 1.5 ГГц,1505500.0
+ HP ZBook Fury 17 G8,HP,1024,SSD,32,17.3,Core i7-11800H 2.3 ГГц,1527600.0
+ HP ZBook Fury 17 G8,HP,512,SSD,16,17.3,Core i7-11800H 2.3 ГГц,1549400.0
+ Dell XPS 15 9510,Dell,1000,SSD,16,15.6,Core i7-11800H 2.3 ГГц,1550900.0
+ Lenovo Legion 7 16IAX7,Lenovo,2048,SSD,32,16.0,Core i9-12900HX 3.6 ГГц,1562500.0
+ Apple MacBook Pro серебристый MVVL2,Apple,512,SSD,16,16.0,Core i7 2.6 ГГц,1567400.0
+ Apple MacBook Pro серый космос MVVJ2,Apple,512,SSD,16,16.0,Core i7 2.6 ГГц,1567400.0
+ HP Omen 17-ck1007ci,HP,1024,SSD,32,17.3,Core i7-12700H 2.3 ГГц,1574990.0
+ Lenovo Legion Pro 7 Gen 8,Lenovo,1024,SSD,16,16.0,Core i9-13900HX 2.2 ГГц,1591676.0
+ Lenovo ThinkPad X1 Carbon Gen 10,Lenovo,1024,SSD,32,14.0,Core i7-1260P 1.5 ГГц,1599400.0
+ Dell XPS 13 9310,Dell,512,SSD,16,13.4,Core i7 1165G7,1600100.0
+ Dell XPS 15 9520,Dell,1000,SSD,32,15.6,Core i7-12700H 2.3 ГГц,1604200.0
+ Asus Rog Strix Scar 17 G733PZ-LL023,Asus,1024,SSD,32,17.3,Ryzen 9-7945HX 2.5 ГГц,1606217.0
+ Lenovo ThinkPad X1 Yoga Gen 7,Lenovo,512,SSD,16,14.0,Core i7-1260P 2.1 ГГц,1607500.0
+ Apple MacBook Pro MV972RU/A,Apple,512,SSD,8,13.0,Intel Core i5,1620500.0
+ Dell XPS 15 9500,Dell,1000,SSD,16,15.6,Core i7-10750H 2.6 ГГц,1658800.0
+ Apple MacBook Pro A1990 MR9R2,Apple,256,SSD,16,15.4,Core i7-8750H 2.2 ГГц,1658800.0
+ Dell 210-AWVQ CENTENARIO_TGLU_2105_1900_BLK,Dell,512,SSD,16,13.4,Core i7 1165G7,1682400.0
+ Asus ZenBook Pro 16X UX7602ZM-ME101X,Asus,1024,SSD,32,16.0,Core i9-12900H 2.5 ГГц,1683617.0
+ Lenovo ThinkPad Z16 Gen 1,Lenovo,512,SSD,16,16.0,Ryzen 7 Pro - 6850H 3.2 ГГц,1711600.0
+ Dell XPS 15 9520,Dell,1000,SSD,32,15.6,Core i7-12700H 2.3 ГГц,1722460.0
+ Apple MacBook Pro Silver,Apple,1024,SSD,16,14.0,M1 Pro,1730300.0
+ Apple MacBook Pro Space Grey,Apple,1024,SSD,16,14.0,M1 Pro,1730300.0
+ Apple MacBook Pro Silver,Apple,1024,SSD,16,16.0,M1 Pro,1730300.0
+ Apple MacBook Pro Space Grey,Apple,512,SSD,16,16.0,M1 Pro,1730300.0
+ Asus ROG Strix SCAR 18 G834JZ,Asus,1024,SSD,32,18.0,Core i9-13980HX 2.2 ГГц,1745048.0
+ Lenovo ThinkPad X1 Titanium Yoga Gen 1,Lenovo,1000,SSD,16,13.5,Core i7-1160G7 2.1 ГГц,1752700.0
+ Dell XPS 15 9520,Dell,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1762990.0
+ Dell XPS 15 9520,Dell,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1762990.0
+ Dell XPS 15 9520,Dell,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1766030.0
+ Dell XPS 17 9720,Dell,1024,SSD,16,17.0,Core i7-12700H 2.3 ГГц,1771491.0
+ Dell XPS 15 9520,Dell,1000,SSD,32,15.6,Core i7-12700H 2.3 ГГц,1783351.0
+ Gigabyte AERO 17 XE5,Gigabyte,2000,SSD,16,17.3,Core i7-12700H 2.3 GHz,1803500.0
+ Dell XPS 15 9520,Dell,1024,SSD,16,15.6,Core i7-12700H 2.3 ГГц,1805730.0
+ Asus ZenBook Pro 16X UX7602VI-MY034X,Asus,2048,SSD,32,16.0,Core i9-13900H 2.6 ГГц,1818215.0
+ Apple MacBook Pro серебристый MVVM2,Apple,1024,SSD,16,16.0,Core i9 2.3 ГГц,1828700.0
+ Apple MacBook Pro серый космос MVVK2,Apple,1024,SSD,16,16.0,Core i9 2.3 ГГц,1828700.0
+ Dell XPS 15 9520,Dell,1000,SSD,32,15.6,Core i9-12900H 2.9 ГГц,1840906.0
+ Dell XPS 15 9520,Dell,1024,SSD,32,15.6,Core i7-12700H 2.3 ГГц,1860492.0
+ Apple MacBook Pro Silver,Apple,1024,SSD,16,16.0,M1 Pro,1867800.0
+ Apple MacBook Pro Space Grey,Apple,1024,SSD,16,16.0,M1 Pro,1867800.0
+ Apple MacBook Pro MV922RU/A,Apple,256,SSD,16,15.0,Intel® Core™ i7,1906200.0
+ Apple MacBook Pro MV902RU/A,Apple,256,SSD,16,15.0,Intel® Core™ i7,1907000.0
+ Dell XPS 15 9520,Dell,1024,SSD,32,15.6,Core i9-12900HK 2.5 ГГц,1915020.0
+ Lenovo Legion Pro 7 Gen 8,Lenovo,1024,SSD,32,16.0,Core i9-13900HX 2.2 ГГц,1952375.0
+ Dell XPS 15 9520,Dell,1024,SSD,32,15.6,Core i9-12900HK 2.5 ГГц,1953520.0
+ Dell XPS 15 9520,Dell,1024,SSD,32,15.6,Core i9-12900HK 2.5 ГГц,1953520.0
+ HP ZBook Fury 17 G8,HP,1024,SSD,32,17.3,Core i9-11900H 2.5 ГГц,1968900.0
+ Lenovo ThinkPad X1 Extreme Gen 5,Lenovo,512,SSD,16,16.0,Core i7-12700H 2.3 ГГц,1982800.0
+ HP ZBook Fury 17 G8,HP,1024,SSD,32,17.3,Core i9-11900H 2.6 ГГц,1988500.0
+ Dell XPS 17 9720,Dell,2000,SSD,64,17.0,Core i9-12900HK 2.9 ГГц,2003500.0
+ Dell XPS 15 9520,Dell,1024,SSD,32,15.6,Core i9-12900HK 2.5 ГГц,2014380.0
+ Dell XPS 17 9720,Dell,1000,SSD,32,17.0,Core i7-12700H 2.3 ГГц,2026206.0
+ Asus Rog Strix Scar 17 G733PY-LL021W,Asus,1024,SSD,32,17.3,Ryzen 9-7945HX 2.5 ГГц,2029543.0
+ Asus Rog Strix Scar 17 X3D G733PYV-LL045W,Asus,1024,SSD,32,17.3,Ryzen 9-7945HX3D 2.3 ГГц,2035055.0
+ Lenovo ThinkPad X1 Extreme Gen 5,Lenovo,1024,SSD,16,16.0,Core i7-12700H 2.3 ГГц,2038900.0
+ Asus ROG Strix SCAR 18 G834JY,Asus,2048,SSD,32,18.0,Core i9-13980HX 2.2 ГГц,2178499.0
+ Apple MacBook Pro MV932RU/A,Apple,512,SSD,16,15.0,Intel® Core™ i9,2223900.0
+ Apple MacBook Pro MV912RU/A,Apple,512,SSD,16,15.0,Intel® Core™ i9,2223900.0
+ Asus Rog Zephyrus Duo 16 GX650RX-LO196X,Asus,1024,SSD,32,16.0,Ryzen 9-6900HX 3.3 ГГц,2226503.0
+ Lenovo ThinkPad X1 Extreme Gen 5,Lenovo,512,SSD,32,16.0,Core i7-12700H 2.3 ГГц,2311540.0
+ Apple MacBook Pro,Apple,1024,SSD,32,16.0,M1 Max 10 core,2422200.0
+ Apple MacBook Pro Space Grey,Apple,1024,SSD,16,16.0,M1 Max 10 core,2422200.0
+ Lenovo 20Y5001XRT,Lenovo,512,SSD,16,16.0,Core i7-11800H,2426700.0
+ Lenovo ThinkPad X1 Extreme Gen 5,Lenovo,1024,SSD,32,16.0,Core i7-12700H 1.7 ГГц,2564600.0
+ Lenovo Legion 9 16IRX8,Lenovo,2048,SSD,32,16.0,Core i9-13980HX 2.2 ГГц,2622775.0
+ Lenovo ThinkPad X1 Extreme Gen 5,Lenovo,1024,SSD,32,16.0,Core i9-12900H 2.5 ГГц,3849800.0
+ Lenovo ThinkPad T460s,Lenovo,512,SSD,12,14.0,Core i5-6300U 2.4 ГГц,329900.0
